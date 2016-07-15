@@ -7,6 +7,7 @@
 \usepackage{blindtext}
 \usepackage{graphicx}
 \usepackage[hidelinks]{hyperref}
+\usepackage{gensymb}
 
 \author{Igor Abreu da Silva}
 
@@ -772,9 +773,52 @@
 				\centering
 				\includegraphics[scale=0.52]{img/3k_beta5.png}
 				\caption{Resposta para $\beta$ = 10 em frequências variantes}	
-			\end{figure}	
+			\end{figure}
+
 	\section{Conclusão}
 		
+	O Trabalho é muito importante para o aprendizado, ele trás a pratica para alguns temas muito abstratos falados durante a aula. A compreensão pratica do problema nos mostra a real utilidade da matéria.
+	
+	Embora a parte de analise de circuito seja algo extra que só sera aprendido profundamente na matéria de Circuitos Elétricos, com dependência curricular de Sistemas Lineares I, os circuitos mostrados são de fácil modelagem. Em relação ao diagrama de blocos, esta matéria faltou nos slides da aula, entretanto, por ser um conceito gráfico bem simples, foi de fácil entendimento após minutos de pequisa.
+	
+	O trabalho foi bastante importante para fixar alguns conceitos aprendidos na sala,  dos quais eu posso listar como mais importante:
+	
+		\begin{itemize}
+			\item Analise dos circuitos;
+			\item Transformar E.D.O do circuito em funções de transferência através da transformada de Laplace;
+			\item Verificar como os polos e o zeros influenciam na pratica a plotagem do diagrama de bode;
+			\item Entender como o valor dos componentes influenciam nos polos e zeros e nas frequências de filtragem;
+			\item Compreender superficialmente o funcionamento de filtros;
+			\item Representação de circuitos em diagrama de blocos;
+			\item Encontrar a reposta do sistema para diferentes sinais através de sua função de transferência. O qual eu acredito que valha a pena colocar um exemplo para consultas futuras:
+		\end{itemize}	
+		Exemplo: Encontre a resposta da função de transferência:
+		$H(S) = \frac{S+2}{S^{2} + 5S + 4}$ para o sinal $x(t) = 5cos(2t + 30\degree)$
+		\[
+			H(j\omega) = \frac{j\omega + 2}{-\omega^{2} + 5j\omega + 4}
+		\]
+		sabemos que:
+		\[
+		\arrowvert H(j\omega) \arrowvert = \frac{\sqrt{(\rm I\!Re_{1})^{2} + (\rm Im_{1})^{2}}}{\sqrt{(\rm I\!Re_{2})^{2} + (\rm Im_{2})^{2}}} \leftrightarrow \angle = \arctan\left(\frac{\rm Im_{1}}{\rm I\!Re_{1}}\right) - \arctan\left(\frac{\rm Im_{2}}{\rm I\!Re_{2}}\right)
+		\]			
+		e que:
+		\[
+		y(t) = \arrowvert H(j\omega) \arrowvert \cos(\omega t + \phi + \angle H(j\omega))
+		\]			
+		logo, substituindo os valores em:
+		\[
+		\arrowvert H(j\omega) \arrowvert = \frac{\sqrt{\omega^{2} + 4}}{\sqrt{(5j\omega)^{2} + (4 - \omega^{2})}} \leftrightarrow \angle H(j\omega) = \arctan\left(\frac{\omega}{2}\right) - \arctan\left(\frac{5\omega}{4 - \omega^{2}}\right)
+		\]		
+		temos:
+		\[
+		y(t) = \sqrt{2}\cos(2t - 15\degree)
+		\]		
+		\begin{itemize}
+			\item Verificar que a resposta ao somatório dos harmônicos de fourier se aproxima do sinal normal conforme o numero de harmônicos crescem;
+			\item Aprender a realizar simulações no MatLab;
+
+		\end{itemize}			
+	
 	\newpage
 	\section{Referências}
 	
