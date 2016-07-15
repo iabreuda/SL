@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.7.14)  15 JUL 2016 00:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.7.14)  15 JUL 2016 01:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -660,25 +660,24 @@ Package babel Info: Redefining portuges shorthand "|
 {c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Trabalho_Esc
 rito.toc
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 40.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 ...1.7.3}Circuito 3}{11}{subsubsection.1.7.3}
-                                                   [1]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 81.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 81.
- [2])
+l.40 ...ndo em $\alpha $}{15}{subsubsection.3.4.1}
+                                                   [1])
 \tf@toc=\write4
 \openout4 = `Trabalho_Escrito.toc'.
 
-
-(./Trabalho_Escrito.lof)
+ (./Trabalho_Escrito.lof
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 11.
+[2])
 \tf@lof=\write5
 \openout5 = `Trabalho_Escrito.lof'.
 
@@ -699,594 +698,325 @@ Overfull \hbox (46.24269pt too wide) in paragraph at lines 55--56
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 59.
-<img/circuito1.png, id=543, 264.23718pt x 88.07906pt>
+<img/circuito1.png, id=381, 264.23718pt x 88.07906pt>
 File: img/circuito1.png Graphic file (type png)
  <use img/circuito1.png>
-Package pdftex.def Info: img/circuito1.png used on input line 62.
+Package pdftex.def Info: img/circuito1.png used on input line 64.
 (pdftex.def)             Requested size: 264.23653pt x 88.07883pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 84.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 82.
+(babel)             in language  on input line 84.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.82 			 \begin{itemize}
+l.84 			 \begin{itemize}
                          [1 <./img/circuito1.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 83.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 85.
 
 (c:/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 83.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
-<img/1e_circ1.png, id=554, 482.55281pt x 337.26pt>
+<img/1e_circ1.png, id=391, 482.55281pt x 337.26pt>
 File: img/1e_circ1.png Graphic file (type png)
  <use img/1e_circ1.png>
-Package pdftex.def Info: img/1e_circ1.png used on input line 98.
+Package pdftex.def Info: img/1e_circ1.png used on input line 100.
 (pdftex.def)             Requested size: 337.78465pt x 236.08038pt.
 
-<img/1f_circ1.png, id=555, 421.575pt x 323.70938pt>
+<img/1f_circ1.png, id=392, 421.575pt x 323.70938pt>
 File: img/1f_circ1.png Graphic file (type png)
  <use img/1f_circ1.png>
-Package pdftex.def Info: img/1f_circ1.png used on input line 104.
+Package pdftex.def Info: img/1f_circ1.png used on input line 106.
 (pdftex.def)             Requested size: 379.41399pt x 291.33574pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 111.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 107.
+(babel)             in language  on input line 111.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.107 			\newpage
+l.111 			\newpage
                   [2 <./img/1e_circ1.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 111.
-
-<img/circuito2.png, id=560, 203.25937pt x 93.34875pt>
-File: img/circuito2.png Graphic file (type png)
- <use img/circuito2.png>
-Package pdftex.def Info: img/circuito2.png used on input line 114.
-(pdftex.def)             Requested size: 203.25887pt x 93.34851pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
-
- []
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 122.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 111.
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.122 			\[
-            [3 <./img/1f_circ1.png> <./img/circuito2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+l.111 			\newpage
+                  [3 <./img/1f_circ1.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 112.
+
+<img/1g_circ1.png, id=402, 382.42876pt x 301.125pt>
+File: img/1g_circ1.png Graphic file (type png)
+ <use img/1g_circ1.png>
+Package pdftex.def Info: img/1g_circ1.png used on input line 115.
+(pdftex.def)             Requested size: 271.5263pt x 213.80023pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 118.
+
+<img/1h_circ1.png, id=403, 381.67593pt x 303.38344pt>
+File: img/1h_circ1.png Graphic file (type png)
+ <use img/1h_circ1.png>
+Package pdftex.def Info: img/1h_circ1.png used on input line 121.
+(pdftex.def)             Requested size: 274.80646pt x 218.4359pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 125.
+
+<img/1i_circ1.png, id=404, 365.86688pt x 279.29344pt>
+File: img/1i_circ1.png Graphic file (type png)
+ <use img/1i_circ1.png>
+Package pdftex.def Info: img/1i_circ1.png used on input line 128.
+(pdftex.def)             Requested size: 259.7673pt x 198.29973pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 130.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 130.
+
+[4 <./img/1g_circ1.png> <./img/1h_circ1.png>]
+<img/1j_circ1.png, id=411, 365.11406pt x 282.30469pt>
+File: img/1j_circ1.png Graphic file (type png)
+ <use img/1j_circ1.png>
+Package pdftex.def Info: img/1j_circ1.png used on input line 133.
+(pdftex.def)             Requested size: 259.23279pt x 200.43771pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 136.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 137.
+
+<img/circuito2.png, id=412, 203.25937pt x 93.34875pt>
+File: img/circuito2.png Graphic file (type png)
+ <use img/circuito2.png>
+Package pdftex.def Info: img/circuito2.png used on input line 140.
+(pdftex.def)             Requested size: 203.25887pt x 93.34851pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 142.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 142.
+
+[5 <./img/1i_circ1.png> <./img/1j_circ1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
-<img/1e_circ2.png, id=567, 417.05812pt x 316.18124pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 172.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 172.
+[6 <./img/circuito2.png>]
+<img/1e_circ2.png, id=424, 417.05812pt x 316.18124pt>
 File: img/1e_circ2.png Graphic file (type png)
  <use img/1e_circ2.png>
-Package pdftex.def Info: img/1e_circ2.png used on input line 156.
+Package pdftex.def Info: img/1e_circ2.png used on input line 182.
 (pdftex.def)             Requested size: 333.64694pt x 252.94533pt.
 
-<img/1f_circ2.png, id=568, 456.20438pt x 321.45094pt>
+<img/1f_circ2.png, id=425, 456.20438pt x 321.45094pt>
 File: img/1f_circ2.png Graphic file (type png)
  <use img/1f_circ2.png>
-Package pdftex.def Info: img/1f_circ2.png used on input line 162.
+Package pdftex.def Info: img/1f_circ2.png used on input line 188.
 (pdftex.def)             Requested size: 319.34087pt x 225.01411pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 165.
+(babel)             in language  on input line 191.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 165.
+(babel)             in language  on input line 191.
 
-[4]
+[7 <./img/1e_circ2.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 167.
- <img/circuito3.png, id=573, 337.26pt x 166.37157pt>
+(babel)             in language  on input line 193.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 194.
+ <img/circuito3.png, id=431, 337.26pt x 166.37157pt>
 File: img/circuito3.png Graphic file (type png)
 
 <use img/circuito3.png>
-Package pdftex.def Info: img/circuito3.png used on input line 170.
+Package pdftex.def Info: img/circuito3.png used on input line 197.
 (pdftex.def)             Requested size: 337.25917pt x 166.37114pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 172.
+(babel)             in language  on input line 202.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 172.
- [5 <./img/1e_circ2.png> <./img/1f_circ2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+(babel)             in language  on input line 202.
+ [8 <./img/1f_circ2.png> <./img/circuito3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 197.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 197.
-[6 <./img/circuito3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
  []
 
-<img/1e_circ3.png, id=585, 473.51906pt x 325.215pt>
+<img/1e_circ3.png, id=438, 473.51906pt x 325.215pt>
 File: img/1e_circ3.png Graphic file (type png)
  <use img/1e_circ3.png>
-Package pdftex.def Info: img/1e_circ3.png used on input line 208.
+Package pdftex.def Info: img/1e_circ3.png used on input line 235.
 (pdftex.def)             Requested size: 331.46106pt x 227.64894pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 211.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 211.
-
-[7 <./img/1e_circ3.png>] <img/1f_circ3.png, id=591, 465.23813pt x 353.82187pt>
-File: img/1f_circ3.png Graphic file (type png)
-
-<use img/1f_circ3.png>
-Package pdftex.def Info: img/1f_circ3.png used on input line 214.
-(pdftex.def)             Requested size: 325.66446pt x 247.67361pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 218.
- <img/circuito4.png, id=592, 188.95593pt x 154.32657pt>
-File: img/circuito4.png Graphic file (type png)
-
-<use img/circuito4.png>
-Package pdftex.def Info: img/circuito4.png used on input line 221.
-(pdftex.def)             Requested size: 188.95546pt x 154.32617pt.
- <img/1f_circ4.png, id=593, 419.31656pt x 347.79938pt>
-File: img/1f_circ4.png Graphic file (type png)
-
-<use img/1f_circ4.png>
-Package pdftex.def Info: img/1f_circ4.png used on input line 228.
-(pdftex.def)             Requested size: 293.51958pt x 243.4579pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
- [8 <./img/1f_circ3.png> <./img/circuito4.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
-
-<img/circuito5.png, id=600, 294.34969pt x 140.77594pt>
-File: img/circuito5.png Graphic file (type png)
- <use img/circuito5.png>
-Package pdftex.def Info: img/circuito5.png used on input line 234.
-(pdftex.def)             Requested size: 294.34895pt x 140.77557pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 237.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 238.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 239.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 240.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 241.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 242.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 243.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 244.
+(babel)             in language  on input line 238.
+
+[9] <img/1f_circ3.png, id=444, 465.23813pt x 353.82187pt>
+File: img/1f_circ3.png Graphic file (type png)
+
+<use img/1f_circ3.png>
+Package pdftex.def Info: img/1f_circ3.png used on input line 241.
+(pdftex.def)             Requested size: 325.66446pt x 247.67361pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 245.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 246.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 247.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 248.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 249.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 250.
+ <img/circuito4.png, id=445, 188.95593pt x 154.32657pt>
+File: img/circuito4.png Graphic file (type png)
+
+<use img/circuito4.png>
+Package pdftex.def Info: img/circuito4.png used on input line 249.
+(pdftex.def)             Requested size: 188.95546pt x 154.32617pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 251.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 252.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 253.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 254.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 255.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 256.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 257.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 258.
+(babel)             in language  on input line 251.
+ [10 <./img/1e_circ3.png> <./img/1f_circ3.png>]
+<img/1f_circ4.png, id=452, 419.31656pt x 347.79938pt>
+File: img/1f_circ4.png Graphic file (type png)
+ <use img/1f_circ4.png>
+Package pdftex.def Info: img/1f_circ4.png used on input line 256.
+(pdftex.def)             Requested size: 293.51958pt x 243.4579pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 259.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 260.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 261.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 262.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 263.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 264.
+
+<img/circuito5.png, id=453, 294.34969pt x 140.77594pt>
+File: img/circuito5.png Graphic file (type png)
+ <use img/circuito5.png>
+Package pdftex.def Info: img/circuito5.png used on input line 263.
+(pdftex.def)             Requested size: 294.34895pt x 140.77557pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 265.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 266.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 267.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 268.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 269.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 270.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 271.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 272.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 273.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 274.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 275.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 276.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 277.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 278.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 280.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 281.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 282.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 283.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 284.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 285.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 286.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 287.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 288.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 289.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 290.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 291.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 292.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 294.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 295.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 296.
+(babel)             in language  on input line 265.
+
+[11 <./img/circuito4.png> <./img/1f_circ4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 296.
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 296.
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 
+ []
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 296.
-
+<img/1e_circ5.png, id=460, 402.75468pt x 323.70938pt>
+File: img/1e_circ5.png Graphic file (type png)
+ <use img/1e_circ5.png>
+Package pdftex.def Info: img/1e_circ5.png used on input line 294.
+(pdftex.def)             Requested size: 302.06526pt x 242.78143pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 297.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 297.
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 297.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 297.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 297.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 298.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 299.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 299.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 299.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 299.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 300.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 300.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 300.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 300.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 301.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 302.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 302.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 302.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 302.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 303.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 303.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 303.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 303.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 304.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 305.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 305.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 305.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 305.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 306.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 306.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 306.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 306.
-
+[12 <./img/circuito5.png>]
+<img/1f_circ5.png, id=466, 371.88937pt x 302.63063pt>
+File: img/1f_circ5.png Graphic file (type png)
+ <use img/1f_circ5.png>
+Package pdftex.def Info: img/1f_circ5.png used on input line 300.
+(pdftex.def)             Requested size: 371.88846pt x 302.62988pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 307.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 308.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 308.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 308.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 308.
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 309.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 309.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 309.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 309.
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 310.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 311.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 311.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 311.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 311.
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 312.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 312.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 312.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 312.
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 313.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 314.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 314.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 314.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 314.
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 315.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 315.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 315.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 315.
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 316.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 317.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 317.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 317.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 317.
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 318.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 318.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 318.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 318.
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 319.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 320.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 320.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 320.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 320.
-
-Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 321.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 321.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 321.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 321.
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 322.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 323.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 323.
@@ -1346,44 +1076,314 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 328.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 330.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 330.
-[9 <./img/1f_circ4.png> <./img/circuito5.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 330.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 330.
- [10]
-Overfull \vbox (1544.40004pt too high) has occurred while \output is active []
+(babel)             in language  on input line 329.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 329.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 329.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 329.
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 330.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 330.
 
-[11]
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 330.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 330.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 330.
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 331.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 332.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 332.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 332.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 332.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 333.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 333.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 333.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 333.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 334.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 335.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 335.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 335.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 335.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 336.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 336.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 336.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 336.
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 337.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 337.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
+(babel)             in language  on input line 338.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 338.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 338.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 338.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 339.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 339.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 339.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 339.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 340.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 341.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 341.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 341.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 341.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 342.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 342.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 342.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 342.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 343.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 344.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 344.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 344.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 344.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 345.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 345.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 345.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 345.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 346.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 347.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 347.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 347.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 347.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 348.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 348.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 348.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 348.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 349.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 350.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 350.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 350.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 350.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 351.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 351.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 351.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 351.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 352.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 353.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 353.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 353.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 353.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 354.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 354.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 354.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 354.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 355.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 357.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 357.
+[13 <./img/1e_circ5.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 357.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 357.
+ [14 <./img/1f_circ5.png>]
+Overfull \vbox (581.40004pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 357.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 357.
+
+[15]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 358.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 364.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 364.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 364.
+ [16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 364.
  (./Trabalho_Escrito.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 337.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 337.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 364.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 364.
 Package rerunfilecheck Info: File `Trabalho_Escrito.out' has not changed.
-(rerunfilecheck)             Checksum: 4A2D144D021CC043F7343E2C1E698873;6398.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 337.
+(rerunfilecheck)             Checksum: A6582984BF38F1EB236AB4100683940A;4160.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 364.
  ) 
 Here is how much of TeX's memory you used:
- 6861 strings out of 493013
- 98057 string characters out of 6136993
- 208073 words of memory out of 5000000
- 10187 multiletter control sequences out of 15000+600000
+ 6831 strings out of 493013
+ 97339 string characters out of 6136993
+ 203073 words of memory out of 5000000
+ 10176 multiletter control sequences out of 15000+600000
  8867 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,7n,32p,317b,433s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1395,10 +1395,10 @@ ype1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2016/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmr17.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Trabalho_Escrito.pdf (16 pages, 305366 bytes).
+Output written on Trabalho_Escrito.pdf (20 pages, 388001 bytes).
 PDF statistics:
- 681 PDF objects out of 1000 (max. 8388607)
- 623 compressed objects within 7 object streams
- 125 named destinations out of 1000 (max. 500000)
- 845 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 541 PDF objects out of 1000 (max. 8388607)
+ 469 compressed objects within 5 object streams
+ 100 named destinations out of 1000 (max. 500000)
+ 595 words of extra memory for PDF output out of 10000 (max. 10000000)
 

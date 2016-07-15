@@ -2,12 +2,18 @@
 \contentsline {figure}{\numberline {1}{\ignorespaces Circuito 1}}{1}{figure.1}
 \contentsline {figure}{\numberline {2}{\ignorespaces Circuito 1 - Polos e Zeros}}{2}{figure.2}
 \contentsline {figure}{\numberline {3}{\ignorespaces Circuito 1 - Diagrama de Bode}}{3}{figure.3}
-\contentsline {figure}{\numberline {4}{\ignorespaces Circuito 2}}{3}{figure.4}
-\contentsline {figure}{\numberline {5}{\ignorespaces Circuito 2 - Polos e Zeros}}{5}{figure.5}
-\contentsline {figure}{\numberline {6}{\ignorespaces Circuito 2 - Diagrama de Bode}}{5}{figure.6}
-\contentsline {figure}{\numberline {7}{\ignorespaces Circuito 3}}{6}{figure.7}
-\contentsline {figure}{\numberline {8}{\ignorespaces Circuito 3 - Polos e Zeros}}{7}{figure.8}
-\contentsline {figure}{\numberline {9}{\ignorespaces Circuito 3 - Diagrama de Bode}}{8}{figure.9}
-\contentsline {figure}{\numberline {10}{\ignorespaces Circuito 4}}{8}{figure.10}
-\contentsline {figure}{\numberline {11}{\ignorespaces Circuito 4 - Diagrama de Bode}}{9}{figure.11}
-\contentsline {figure}{\numberline {12}{\ignorespaces Circuito 5}}{9}{figure.12}
+\contentsline {figure}{\numberline {4}{\ignorespaces Circuito 1 - Resposta ao degrau unit\IeC {\'a}rio}}{4}{figure.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Circuito 1 - Resposta a rampa unit\IeC {\'a}ria}}{4}{figure.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Circuito 1 - Resposta a onda quadrada com $\omega = \frac {1}{8}\pi $}}{5}{figure.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Circuito 1 - Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{5}{figure.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Circuito 2}}{6}{figure.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Circuito 2 - Polos e Zeros}}{7}{figure.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Circuito 2 - Diagrama de Bode}}{8}{figure.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Circuito 3}}{8}{figure.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Circuito 3 - Polos e Zeros}}{10}{figure.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Circuito 3 - Diagrama de Bode}}{10}{figure.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Circuito 4}}{11}{figure.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Circuito 4 - Diagrama de Bode}}{11}{figure.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Circuito 5}}{12}{figure.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Circuito 5 - Polos e Zeros}}{13}{figure.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Circuito 5 - Diagrama de Bode}}{14}{figure.18}
