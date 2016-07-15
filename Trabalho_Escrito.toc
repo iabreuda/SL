@@ -30,39 +30,27 @@
 \contentsline {subsection}{\numberline {2.2}Resposta ao degrau unit\IeC {\'a}rio}{33}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Resposta a rampa unit\IeC {\'a}ria}{33}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}Resposta a onda quadrada}{34}{subsection.2.4}
-\contentsline {section}{\numberline {3}Quest\~{a}o 3}{36}{section.3}
-\contentsline {subsection}{\numberline {3.1}Item a}{36}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Variando em $\alpha $}{36}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Variando em $\beta $}{36}{subsubsection.3.1.2}
-\contentsline {subsection}{\numberline {3.2}Item b}{36}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Variando em $\alpha $}{36}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Variando em $\beta $}{36}{subsubsection.3.2.2}
-\contentsline {subsection}{\numberline {3.3}Item c}{36}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}Variando em $\alpha $}{36}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Variando em $\beta $}{36}{subsubsection.3.3.2}
-\contentsline {subsection}{\numberline {3.4}Item d}{36}{subsection.3.4}
-\contentsline {subsubsection}{\numberline {3.4.1}Variando em $\alpha $}{36}{subsubsection.3.4.1}
-\contentsline {subsubsection}{\numberline {3.4.2}Variando em $\beta $}{36}{subsubsection.3.4.2}
-\contentsline {subsection}{\numberline {3.5}Item e}{36}{subsection.3.5}
-\contentsline {subsubsection}{\numberline {3.5.1}Variando em $\alpha $}{36}{subsubsection.3.5.1}
-\contentsline {subsubsection}{\numberline {3.5.2}Variando em $\beta $}{36}{subsubsection.3.5.2}
-\contentsline {subsection}{\numberline {3.6}Item f}{36}{subsection.3.6}
-\contentsline {subsubsection}{\numberline {3.6.1}Variando em $\alpha $}{36}{subsubsection.3.6.1}
-\contentsline {subsubsection}{\numberline {3.6.2}Variando em $\beta $}{36}{subsubsection.3.6.2}
-\contentsline {subsection}{\numberline {3.7}Item g}{36}{subsection.3.7}
-\contentsline {subsubsection}{\numberline {3.7.1}Variando em $\alpha $}{36}{subsubsection.3.7.1}
-\contentsline {subsubsection}{\numberline {3.7.2}Variando em $\beta $}{36}{subsubsection.3.7.2}
-\contentsline {subsection}{\numberline {3.8}Item h}{36}{subsection.3.8}
-\contentsline {subsubsection}{\numberline {3.8.1}Variando em $\alpha $}{36}{subsubsection.3.8.1}
-\contentsline {subsubsection}{\numberline {3.8.2}Variando em $\beta $}{36}{subsubsection.3.8.2}
-\contentsline {subsection}{\numberline {3.9}Item i}{36}{subsection.3.9}
-\contentsline {subsubsection}{\numberline {3.9.1}Variando em $\alpha $}{36}{subsubsection.3.9.1}
-\contentsline {subsubsection}{\numberline {3.9.2}Variando em $\beta $}{36}{subsubsection.3.9.2}
-\contentsline {subsection}{\numberline {3.10}Item j}{36}{subsection.3.10}
-\contentsline {subsubsection}{\numberline {3.10.1}Variando em $\alpha $}{36}{subsubsection.3.10.1}
-\contentsline {subsubsection}{\numberline {3.10.2}Variando em $\beta $}{36}{subsubsection.3.10.2}
-\contentsline {subsection}{\numberline {3.11}Item k}{36}{subsection.3.11}
-\contentsline {subsubsection}{\numberline {3.11.1}Variando em $\alpha $}{36}{subsubsection.3.11.1}
-\contentsline {subsubsection}{\numberline {3.11.2}Variando em $\beta $}{36}{subsubsection.3.11.2}
-\contentsline {section}{\numberline {4}Conclus\IeC {\~a}o}{36}{section.4}
-\contentsline {section}{\numberline {5}Refer\IeC {\^e}ncias}{37}{section.5}
+\contentsline {section}{\numberline {3}Quest\~{a}o 3}{37}{section.3}
+\contentsline {subsection}{\numberline {3.1}E.D.O dos sistemas}{37}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Sistema 1}{37}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Sistema 2}{37}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Polos e zeros}{38}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Variando em $\alpha $}{38}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Variando em $\beta $}{38}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Diagrama de Bode}{39}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Variando em $\alpha $}{39}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Variando em $\beta $}{39}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}Resposta ao Degrau Unit\IeC {\'a}rio}{40}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Variando em $\alpha $}{40}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Variando em $\beta $}{40}{subsubsection.3.4.2}
+\contentsline {subsection}{\numberline {3.5}Resposta a Rampa Unit\IeC {\'a}ria}{41}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Variando em $\alpha $}{41}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Variando em $\beta $}{41}{subsubsection.3.5.2}
+\contentsline {subsection}{\numberline {3.6}Resposta a onda quadrada}{42}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.6.1}Variando em $\alpha $}{42}{subsubsection.3.6.1}
+\contentsline {subsubsection}{\numberline {3.6.2}Variando em $\beta $}{45}{subsubsection.3.6.2}
+\contentsline {subsection}{\numberline {3.7}Resposta a cossenoides}{47}{subsection.3.7}
+\contentsline {subsubsection}{\numberline {3.7.1}Variando frequ\IeC {\^e}ncias nos valores de $\alpha $}{47}{subsubsection.3.7.1}
+\contentsline {subsubsection}{\numberline {3.7.2}Variando frequ\IeC {\^e}ncias nos valores de $\beta $}{51}{subsubsection.3.7.2}
+\contentsline {section}{\numberline {4}Conclus\IeC {\~a}o}{53}{section.4}
+\contentsline {section}{\numberline {5}Refer\IeC {\^e}ncias}{54}{section.5}
