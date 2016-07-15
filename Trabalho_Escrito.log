@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.7.14)  15 JUL 2016 17:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.7.14)  15 JUL 2016 19:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1906,35 +1906,35 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 751.
 
-<img/3k_beta1.png, id=904, 718.18312pt x 505.89pt>
+<img/3k_beta1.png, id=904, 563.10374pt x 401.24907pt>
 File: img/3k_beta1.png Graphic file (type png)
  <use img/3k_beta1.png>
 Package pdftex.def Info: img/3k_beta1.png used on input line 754.
-(pdftex.def)             Requested size: 323.17941pt x 227.64839pt.
+(pdftex.def)             Requested size: 326.6004pt x 232.72461pt.
 
-<img/3k_beta2.png, id=905, 608.2725pt x 449.42906pt>
+<img/3k_beta2.png, id=905, 617.30624pt x 452.4403pt>
 File: img/3k_beta2.png Graphic file (type png)
  <use img/3k_beta2.png>
 Package pdftex.def Info: img/3k_beta2.png used on input line 759.
-(pdftex.def)             Requested size: 316.30353pt x 233.70445pt.
+(pdftex.def)             Requested size: 327.17075pt x 239.79222pt.
 
-<img/3k_beta3.png, id=906, 700.86844pt x 532.99126pt>
+<img/3k_beta3.png, id=906, 653.44125pt x 511.9125pt>
 File: img/3k_beta3.png Graphic file (type png)
  <use img/3k_beta3.png>
 Package pdftex.def Info: img/3k_beta3.png used on input line 764.
-(pdftex.def)             Requested size: 315.38788pt x 239.84384pt.
+(pdftex.def)             Requested size: 320.18901pt x 250.83932pt.
 
-<img/3k_beta4.png, id=907, 738.50906pt x 579.66562pt>
+<img/3k_beta4.png, id=907, 569.87906pt x 432.86719pt>
 File: img/3k_beta4.png Graphic file (type png)
  <use img/3k_beta4.png>
 Package pdftex.def Info: img/3k_beta4.png used on input line 769.
-(pdftex.def)             Requested size: 332.326pt x 260.8471pt.
+(pdftex.def)             Requested size: 324.83443pt x 246.73685pt.
 
-<img/3k_beta5.png, id=908, 739.26187pt x 539.01375pt>
+<img/3k_beta5.png, id=908, 599.99156pt x 453.19313pt>
 File: img/3k_beta5.png Graphic file (type png)
  <use img/3k_beta5.png>
 Package pdftex.def Info: img/3k_beta5.png used on input line 774.
-(pdftex.def)             Requested size: 384.41838pt x 280.28876pt.
+(pdftex.def)             Requested size: 341.99875pt x 258.32275pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 778.
 Package babel Info: Redefining portuges shorthand "|
@@ -1954,9 +1954,9 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 781.
 [52 <./img/3k_beta3.png> <./img/3k_beta4.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 790.
+(babel)             in language  on input line 791.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 790.
+(babel)             in language  on input line 791.
  [53 <./img/3k_beta5.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 822.
@@ -2049,7 +2049,7 @@ b><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/tex
 live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2016/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2016/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Trabalho_Escrito.pdf (61 pages, 2189385 bytes).
+Output written on Trabalho_Escrito.pdf (61 pages, 2223509 bytes).
 PDF statistics:
  1022 PDF objects out of 1200 (max. 8388607)
  761 compressed objects within 8 object streams

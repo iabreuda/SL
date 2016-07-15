@@ -29,7 +29,7 @@ for idx = 1:numel(b)
     for k=1:numel(freq);
        t = linspace(0, 4/(freq(k)),1000);
        u = cos(2*pi*freq(k)*t);
-       y = lsim(h1,u,t);
+       y = lsim(h2,u,t);
        subplot(3,3,k)
        plot(y,'b');
        title(sprintf('Beta = %s e Freq = %s', num2str(b(idx)),num2str(freq(k))));
