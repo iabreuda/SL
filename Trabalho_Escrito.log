@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.7.14)  8 DEC 2016 18:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.9.13)  9 DEC 2016 17:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Trabalho_Escrito.tex
-(./Trabalho_Escrito.tex
-LaTeX2e <2016/03/31> patch level 2
-Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(c:/texlive/2016/texmf-dist/tex/latex/base/article.cls
+**Trabalho_Escrito.tex
+(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 4 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(c:/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,32 +23,32 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(c:/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
 
-(c:/texlive/2016/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
-(c:/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 )
 Package babel Info: Making " an active character on input line 145.
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/utf8.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -285,7 +285,7 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -326,7 +326,7 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -350,24 +350,24 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/06/28 v2.15d AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen104
 ))
-(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen105
 )
-(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count88
@@ -408,13 +408,13 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
-(c:/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/blindtext/blindtext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-(c:/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count100
@@ -436,31 +436,31 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count116
 \c@blind@pangrammax=\count117
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/06/02 v1.0s Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2016/07/01 v0.06i Graphics/color for pdfTeX
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count118
@@ -468,14 +468,14 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -515,27 +515,27 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen115
 \Hy@linkcounter=\count119
 \Hy@pagecounter=\count120
 
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count121
 
-(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4486.
@@ -547,7 +547,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4735.
 \c@Hy@tempcnt=\count122
 
-(c:/texlive/2016/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -572,25 +572,25 @@ LaTeX Info: Redefining \pageref on input line 6416.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
 \Fld@listcount=\count127
 \c@bookmark@seq@number=\count128
 
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip46
 )
-(c:/texlive/2016/texmf-dist/tex/latex/was/gensymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
-(c:/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Package option `usenames' ignored on input line 216.
@@ -605,10 +605,10 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-(c:/texlive/2016/texmf-dist/tex/latex/graphics/dvipsnam.def
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-(./Trabalho_Escrito.aux)
+(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.aux)
 \openout1 = `Trabalho_Escrito.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -626,7 +626,7 @@ LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 
-(c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count129
 \scratchdimen=\dimen119
@@ -639,10 +639,10 @@ LaTeX Font Info:    ... okay on input line 17.
 \MPnumerator=\count133
 \makeMPintoPDFobject=\count134
 \everyMPtoPDFconversion=\toks23
-) (c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -652,17 +652,17 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box29
 Package hyperref Info: Link coloring OFF on input line 17.
 
-(c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count135
@@ -671,7 +671,8 @@ LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
 LaTeX Info: Redefining \nameref on input line 17.
 
-(./Trabalho_Escrito.out) (./Trabalho_Escrito.out)
+(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out)
+(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out)
 \@outlinefile=\write3
 \openout3 = `Trabalho_Escrito.out'.
 
@@ -693,8 +694,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
 [1
 
-{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./Trabalho_Escrito.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.toc
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 40.
 Package babel Info: Redefining portuges shorthand "|
@@ -708,11 +709,13 @@ l.40 ...mpa unit\IeC {\'a}ria}{35}{subsection.3.3}
 \tf@toc=\write4
 \openout4 = `Trabalho_Escrito.toc'.
 
- (./Trabalho_Escrito.lof
+
+(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.lof
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 9.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 9.
+
 [2]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 38.
@@ -845,7 +848,8 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.145 			\]
-            	\\ [3 <./img/circuito1.png>]
+            	\\ [3 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/
+circuito1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
@@ -857,7 +861,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 152.
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -945,7 +949,8 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.218 		\newpage
-                 [5 <./img/1e_circ1.png>]
+                 [5 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img
+/1e_circ1.png>]
 
 LaTeX Warning: Text page 6 contains only floats.
 
@@ -957,7 +962,8 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 218.
 
-[6 <./img/1f_circ1.png> <./img/1g_circ1.png>]
+[6 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ1.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ1.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 219.
 Package babel Info: Redefining portuges shorthand "|
@@ -977,7 +983,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 233.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 233.
-[7 <./img/1h_circ1.png> <./img/1i_circ1.png>]
+[7 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ1.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 233--234
 
  []
@@ -986,12 +993,15 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 235.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 235.
-[8 <./img/1j_circ1.png> <./img/1k_circ1.png>]
+[8 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ1.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ1.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 239.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 239.
- [9 <./img/1l_circ1.png> <./img/1m_circ1.png>]
+
+[9 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ1.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 239--240
 
  []
@@ -1022,10 +1032,9 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 274.
 
-[10 <./img/circuito2.png>]
+[10 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito2.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 277.
-
 <img/1g_circ2.png, id=639, 379.4175pt x 304.13625pt>
 File: img/1g_circ2.png Graphic file (type png)
  <use img/1g_circ2.png>
@@ -1036,7 +1045,8 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 282.
 
-[11 <./img/1e_circ2.png> <./img/1f_circ2.png>]
+[11 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ2.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ2.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 283.
 
@@ -1058,7 +1068,8 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 295.
 
-[12 <./img/1g_circ2.png> <./img/1h_circ2.png>]
+[12 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ2.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ2.png>]
 <img/1j_circ2.png, id=655, 364.36125pt x 283.0575pt>
 File: img/1j_circ2.png Graphic file (type png)
  <use img/1j_circ2.png>
@@ -1081,35 +1092,39 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 311.
 
-[13 <./img/1i_circ2.png> <./img/1j_circ2.png>]
+[13 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ2.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ2.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 311.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 311.
- [14 <./img/1k_circ2.png> <./img/1l_circ2.png>] <img/1m_circ2.png, id=671, 362.
-85562pt x 281.55188pt>
-File: img/1m_circ2.png Graphic file (type png)
 
-<use img/1m_circ2.png>
+[14 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ2.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ2.png>]
+<img/1m_circ2.png, id=671, 362.85562pt x 281.55188pt>
+File: img/1m_circ2.png Graphic file (type png)
+ <use img/1m_circ2.png>
 Package pdftex.def Info: img/1m_circ2.png used on input line 314.
 (pdftex.def)             Requested size: 257.62929pt x 199.90321pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 317.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 318.
- <img/circuito3.png, id=672, 337.26pt x 166.37157pt>
-File: img/circuito3.png Graphic file (type png)
 
-<use img/circuito3.png>
+<img/circuito3.png, id=672, 337.26pt x 166.37157pt>
+File: img/circuito3.png Graphic file (type png)
+ <use img/circuito3.png>
 Package pdftex.def Info: img/circuito3.png used on input line 321.
 (pdftex.def)             Requested size: 337.25917pt x 166.37114pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 329.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 329.
- [15
 
- <./img/1m_circ2.png> <./img/circuito3.png>]
+[15
+
+ </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ2.png> </ho
+me/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 329--330
 
  []
@@ -1157,58 +1172,61 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 374.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 374.
- [17 <./img/1e_circ3.png> <./img/1f_circ3.png>]
+ [17 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ3.png> 
+</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ3.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 375.
-
-<img/1h_circ3.png, id=692, 370.38374pt x 295.1025pt>
+ <img/1h_circ3.png, id=692, 370.38374pt x 295.1025pt>
 File: img/1h_circ3.png Graphic file (type png)
- <use img/1h_circ3.png>
+
+<use img/1h_circ3.png>
 Package pdftex.def Info: img/1h_circ3.png used on input line 378.
 (pdftex.def)             Requested size: 266.67609pt x 212.47362pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 382.
-
-<img/1i_circ3.png, id=693, 368.87813pt x 282.30469pt>
+ <img/1i_circ3.png, id=693, 368.87813pt x 282.30469pt>
 File: img/1i_circ3.png Graphic file (type png)
- <use img/1i_circ3.png>
+
+<use img/1i_circ3.png>
 Package pdftex.def Info: img/1i_circ3.png used on input line 385.
 (pdftex.def)             Requested size: 261.90529pt x 200.43771pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 387.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 387.
-
-[18 <./img/1g_circ3.png> <./img/1h_circ3.png>]
-<img/1j_circ3.png, id=700, 367.3725pt x 279.29344pt>
+ [18 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ3.png> 
+</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ3.png>] <img
+/1j_circ3.png, id=700, 367.3725pt x 279.29344pt>
 File: img/1j_circ3.png Graphic file (type png)
- <use img/1j_circ3.png>
+
+<use img/1j_circ3.png>
 Package pdftex.def Info: img/1j_circ3.png used on input line 390.
 (pdftex.def)             Requested size: 260.83629pt x 198.29973pt.
-
-<img/1k_circ3.png, id=701, 365.86688pt x 281.55188pt>
+ <img/1k_circ3.png, id=701, 365.86688pt x 281.55188pt>
 File: img/1k_circ3.png Graphic file (type png)
- <use img/1k_circ3.png>
+
+<use img/1k_circ3.png>
 Package pdftex.def Info: img/1k_circ3.png used on input line 395.
 (pdftex.def)             Requested size: 259.7673pt x 199.90321pt.
-
-<img/1l_circ3.png, id=702, 364.36125pt x 280.79906pt>
+ <img/1l_circ3.png, id=702, 364.36125pt x 280.79906pt>
 File: img/1l_circ3.png Graphic file (type png)
- <use img/1l_circ3.png>
+
+<use img/1l_circ3.png>
 Package pdftex.def Info: img/1l_circ3.png used on input line 400.
 (pdftex.def)             Requested size: 258.69829pt x 199.36871pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 403.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 403.
-
-[19 <./img/1i_circ3.png> <./img/1j_circ3.png>]
+ [19 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ3.png> 
+</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ3.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 403.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 403.
- [20 <./img/1k_circ3.png> <./img/1l_circ3.png>] <img/1m_circ3.png, id=716, 363.
-60844pt x 283.81032pt>
+ [20 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ3.png> 
+</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ3.png>] <img
+/1m_circ3.png, id=716, 363.60844pt x 283.81032pt>
 File: img/1m_circ3.png Graphic file (type png)
 
 <use img/1m_circ3.png>
@@ -1244,77 +1262,80 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 428.
  [21
 
- <./img/1m_circ3.png> <./img/circuito4.png>]
+ </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ3.png> </ho
+me/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito4.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 429.
-
-<img/1h_circ4.png, id=726, 362.10281pt x 299.61937pt>
+ <img/1h_circ4.png, id=726, 362.10281pt x 299.61937pt>
 File: img/1h_circ4.png Graphic file (type png)
- <use img/1h_circ4.png>
+
+<use img/1h_circ4.png>
 Package pdftex.def Info: img/1h_circ4.png used on input line 432.
 (pdftex.def)             Requested size: 260.7138pt x 215.72578pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 434.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 434.
-
-[22 <./img/1f_circ4.png> <./img/1g_circ4.png>]
+ [22 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ4.png> 
+</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ4.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 436.
-
-<img/1i_circ4.png, id=733, 364.36125pt x 279.29344pt>
+ <img/1i_circ4.png, id=733, 364.36125pt x 279.29344pt>
 File: img/1i_circ4.png Graphic file (type png)
- <use img/1i_circ4.png>
+
+<use img/1i_circ4.png>
 Package pdftex.def Info: img/1i_circ4.png used on input line 439.
 (pdftex.def)             Requested size: 258.69829pt x 198.29973pt.
-
-<img/1j_circ4.png, id=734, 367.3725pt x 280.04625pt>
+ <img/1j_circ4.png, id=734, 367.3725pt x 280.04625pt>
 File: img/1j_circ4.png Graphic file (type png)
- <use img/1j_circ4.png>
+
+<use img/1j_circ4.png>
 Package pdftex.def Info: img/1j_circ4.png used on input line 444.
 (pdftex.def)             Requested size: 260.83629pt x 198.83421pt.
-
-<img/1k_circ4.png, id=735, 367.3725pt x 280.79906pt>
+ <img/1k_circ4.png, id=735, 367.3725pt x 280.79906pt>
 File: img/1k_circ4.png Graphic file (type png)
- <use img/1k_circ4.png>
+
+<use img/1k_circ4.png>
 Package pdftex.def Info: img/1k_circ4.png used on input line 449.
 (pdftex.def)             Requested size: 260.83629pt x 199.36871pt.
-
-<img/1l_circ4.png, id=736, 368.87813pt x 280.04625pt>
+ <img/1l_circ4.png, id=736, 368.87813pt x 280.04625pt>
 File: img/1l_circ4.png Graphic file (type png)
- <use img/1l_circ4.png>
+
+<use img/1l_circ4.png>
 Package pdftex.def Info: img/1l_circ4.png used on input line 454.
 (pdftex.def)             Requested size: 261.90529pt x 198.83421pt.
-
-<img/1m_circ4.png, id=737, 365.86688pt x 283.81032pt>
+ <img/1m_circ4.png, id=737, 365.86688pt x 283.81032pt>
 File: img/1m_circ4.png Graphic file (type png)
- <use img/1m_circ4.png>
+
+<use img/1m_circ4.png>
 Package pdftex.def Info: img/1m_circ4.png used on input line 459.
 (pdftex.def)             Requested size: 259.7673pt x 201.50673pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 462.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 462.
-
-[23 <./img/1h_circ4.png> <./img/1i_circ4.png>]
+ [23 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ4.png> 
+</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ4.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 462.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 462.
- [24 <./img/1j_circ4.png> <./img/1k_circ4.png>]
+ [24 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ4.png> 
+</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ4.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 462.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 462.
- [25 <./img/1l_circ4.png> <./img/1m_circ4.png>]
+ [25 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ4.png> 
+</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ4.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 463.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 464.
-
-<img/circuito5.png, id=757, 294.34969pt x 140.77594pt>
+ <img/circuito5.png, id=757, 294.34969pt x 140.77594pt>
 File: img/circuito5.png Graphic file (type png)
- <use img/circuito5.png>
+
+<use img/circuito5.png>
 Package pdftex.def Info: img/circuito5.png used on input line 467.
 (pdftex.def)             Requested size: 294.34895pt x 140.77557pt.
 
@@ -1344,8 +1365,8 @@ Package babel Info: Redefining portuges shorthand "|
 
 [26
 
- <./img/circuito5.png>]
-<img/1f_circ5.png, id=764, 371.88937pt x 302.63063pt>
+ </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito5.png>] <i
+mg/1f_circ5.png, id=764, 371.88937pt x 302.63063pt>
 File: img/1f_circ5.png Graphic file (type png)
  <use img/1f_circ5.png>
 Package pdftex.def Info: img/1f_circ5.png used on input line 504.
@@ -1363,7 +1384,8 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 515.
 
-[27 <./img/1e_circ5.png> <./img/1f_circ5.png>]
+[27 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ5.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ5.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 516.
 
@@ -1385,7 +1407,8 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 528.
 
-[28 <./img/1g_circ5.png> <./img/1h_circ5.png>]
+[28 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ5.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ5.png>]
 <img/1j_circ5.png, id=780, 365.11406pt x 285.31593pt>
 File: img/1j_circ5.png Graphic file (type png)
  <use img/1j_circ5.png>
@@ -1414,17 +1437,21 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 550.
 
-[29 <./img/1i_circ5.png> <./img/1j_circ5.png>]
+[29 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ5.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ5.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 550.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 550.
- [30 <./img/1k_circ5.png> <./img/1l_circ5.png>]
+
+[30 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ5.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ5.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 550.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 550.
- [31 <./img/1m_circ5.png>]
+
+[31 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ5.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 551.
 
@@ -1446,7 +1473,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 587.
 [32
 
- <./img/db.png>]
+ </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/db.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 589--590
 
  []
@@ -1466,34 +1493,34 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 601.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 601.
- [33 <./img/2b.png>]
+ [33 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2b.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 602.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 602.
- [34 <./img/2c.png>]
+ [34 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2c.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 603.
- <img/2f.png, id=823, 372.64218pt x 281.55188pt>
-File: img/2f.png Graphic file (type png)
 
-<use img/2f.png>
+<img/2f.png, id=823, 372.64218pt x 281.55188pt>
+File: img/2f.png Graphic file (type png)
+ <use img/2f.png>
 Package pdftex.def Info: img/2f.png used on input line 606.
 (pdftex.def)             Requested size: 264.57779pt x 199.90321pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 610.
- <img/2g.png, id=824, 362.85562pt x 279.29344pt>
-File: img/2g.png Graphic file (type png)
 
-<use img/2g.png>
+<img/2g.png, id=824, 362.85562pt x 279.29344pt>
+File: img/2g.png Graphic file (type png)
+ <use img/2g.png>
 Package pdftex.def Info: img/2g.png used on input line 613.
 (pdftex.def)             Requested size: 257.62929pt x 198.29973pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 617.
- <img/2h.png, id=825, 363.60844pt x 283.0575pt>
-File: img/2h.png Graphic file (type png)
 
-<use img/2h.png>
+<img/2h.png, id=825, 363.60844pt x 283.0575pt>
+File: img/2h.png Graphic file (type png)
+ <use img/2h.png>
 Package pdftex.def Info: img/2h.png used on input line 620.
 (pdftex.def)             Requested size: 258.16379pt x 200.97221pt.
 Package babel Info: Redefining portuges shorthand "|
@@ -1502,7 +1529,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 622.
  [35
 
- <./img/2f.png> <./img/2g.png>]
+ </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2f.png> </home/igo
+r/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2g.png>]
 <img/2i.png, id=832, 362.10281pt x 279.29344pt>
 File: img/2i.png Graphic file (type png)
  <use img/2i.png>
@@ -1530,17 +1558,19 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 643.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 643.
- [36 <./img/2h.png> <./img/2i.png>]
+ [36 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2h.png> </home
+/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2i.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 643.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 643.
- [37 <./img/2j.png> <./img/2k.png>]
+ [37 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2j.png> </home
+/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2k.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 643.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 643.
- [38 <./img/2l.png>]
+ [38 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2l.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 645.
 
@@ -1659,7 +1689,8 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 690.
 
-[40 <./img/3b_alfa.png> <./img/3b_beta.png>]
+[40 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3b_alfa.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3b_beta.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 691.
 
@@ -1707,7 +1738,8 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 703.
 
-[41 <./img/3c_alfa.png> <./img/3c_beta.png>]
+[41 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3c_alfa.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3c_beta.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 704.
 
@@ -1733,7 +1765,8 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 710.
 
-[42 <./img/3d_alfa.png> <./img/3d_beta.png>]
+[42 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3d_alfa.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3d_beta.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 711.
 Package babel Info: Redefining portuges shorthand "|
@@ -1803,7 +1836,8 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 730.
 
-[43 <./img/3e_alfa.png> <./img/3e_beta.png>]
+[43 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3e_alfa.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3e_beta.png>]
 <img/3g_alfa.png, id=892, 733.23938pt x 478.78876pt>
 File: img/3g_alfa.png Graphic file (type png)
  <use img/3g_alfa.png>
@@ -1836,17 +1870,21 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 751.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 751.
-[44 <./img/3f_alfa.png> <./img/3g_alfa.png>]
+[44 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3f_alfa.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3g_alfa.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 751.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 751.
- [45 <./img/3h_alfa.png> <./img/3i_alfa.png>]
+
+[45 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3h_alfa.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3i_alfa.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 751.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 751.
- [46 <./img/3j_alfa.png>]
+
+[46 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3j_alfa.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 752.
 
@@ -1928,7 +1966,8 @@ Package babel Info: Redefining portuges shorthand "|
 
 [47
 
- <./img/3f_beta.png> <./img/3g_beta.png>]
+ </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3f_beta.png> </hom
+e/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3g_beta.png>]
 
 LaTeX Warning: Text page 48 contains only floats.
 
@@ -1936,7 +1975,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 785.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 785.
-[48 <./img/3h_beta.png> <./img/3i_beta.png>]
+[48 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3h_beta.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3i_beta.png>]
 <img/3k_alfa2.png, id=932, 745.28438pt x 484.05844pt>
 File: img/3k_alfa2.png Graphic file (type png)
  <use img/3k_alfa2.png>
@@ -1947,7 +1987,8 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 790.
 
-[49 <./img/3j_beta.png> <./img/3k_alfa1.png>]
+[49 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3j_beta.png> </
+home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa1.png>]
 <img/3k_alfa3.png, id=940, 743.77875pt x 514.17094pt>
 File: img/3k_alfa3.png Graphic file (type png)
  <use img/3k_alfa3.png>
@@ -1982,17 +2023,22 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 816.
 
-[50 <./img/3k_alfa2.png> <./img/3k_alfa3.png>]
+[50 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa2.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa3.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 816.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 816.
- [51 <./img/3k_alfa4.png> <./img/3k_alfa5.png>]
+
+[51 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa4.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa5.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 816.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 816.
- [52 <./img/3k_alfa6.png> <./img/3k_alfa7.png>]
+
+[52 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa6.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa7.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 817.
 
@@ -2046,7 +2092,8 @@ Package babel Info: Redefining portuges shorthand "|
 
 [53
 
- <./img/3k_beta1.png> <./img/3k_beta2.png>]
+ </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta1.png> </ho
+me/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta2.png>]
 
 LaTeX Warning: Text page 54 contains only floats.
 
@@ -2054,12 +2101,14 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 847.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 847.
-[54 <./img/3k_beta3.png> <./img/3k_beta4.png>]
+[54 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta3.png> <
+/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta4.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 857.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 857.
- [55 <./img/3k_beta5.png>]
+
+[55 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta5.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 888.
 Package babel Info: Redefining portuges shorthand "|
@@ -2125,7 +2174,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 913.
 [57]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 913.
- (./Trabalho_Escrito.aux)
+
+(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 913.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 913.
 Package rerunfilecheck Info: File `Trabalho_Escrito.out' has not changed.
@@ -2133,25 +2183,27 @@ Package rerunfilecheck Info: File `Trabalho_Escrito.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 913.
  ) 
 Here is how much of TeX's memory you used:
- 7863 strings out of 493013
- 111528 string characters out of 6136993
- 222750 words of memory out of 5000000
- 11010 multiletter control sequences out of 15000+600000
+ 7864 strings out of 494925
+ 112782 string characters out of 6180251
+ 217932 words of memory out of 5000000
+ 10767 multiletter control sequences out of 15000+600000
  9214 words of font info for 33 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 29i,8n,35p,611b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2016
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2016/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2016/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2016/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr17.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr6.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
-b><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2016/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2016/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Trabalho_Escrito.pdf (63 pages, 2163487 bytes).
+ 16 hyphenation exceptions out of 8191
+ 29i,8n,35p,609b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+
+Output written on "/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Traba
+lho_Escrito.pdf" (63 pages, 3592876 bytes).
 PDF statistics:
  1082 PDF objects out of 1200 (max. 8388607)
  818 compressed objects within 9 object streams

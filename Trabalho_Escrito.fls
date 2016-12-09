@@ -1,0 +1,423 @@
+PWD /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.tex
+OUTPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.log
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.aux
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.aux
+OUTPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.aux
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out
+OUTPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.pdf
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out
+OUTPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.toc
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.toc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+OUTPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.toc
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.lof
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.lof
+OUTPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.lof
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito1.png
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/db.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/db.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/db.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2b.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2b.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2b.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2c.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2c.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2c.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2f.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2f.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2f.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2g.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2g.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2g.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2h.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2h.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2h.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2i.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2i.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2i.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2j.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2j.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2j.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2k.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2k.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2k.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2l.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2l.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2l.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3b_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3b_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3b_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3b_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3b_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3b_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3c_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3c_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3c_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3c_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3c_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3c_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3d_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3d_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3d_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3d_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3d_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3d_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3e_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3e_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3e_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3e_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3e_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3e_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3f_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3f_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3f_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3g_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3g_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3g_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3h_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3h_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3h_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3i_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3i_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3i_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3j_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3j_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3j_alfa.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3f_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3f_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3f_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3g_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3g_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3g_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3h_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3h_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3h_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3i_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3i_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3i_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3j_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3j_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3j_beta.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa6.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa6.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa6.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa7.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa7.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa7.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta1.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta2.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta3.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta4.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta5.png
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.aux
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out
+INPUT /home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
