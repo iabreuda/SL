@@ -8,6 +8,7 @@
 \usepackage{graphicx}
 \usepackage[hidelinks]{hyperref}
 \usepackage{gensymb}
+\usepackage[usenames, dvipsnames]{xcolor}
 
 \author{Igor Abreu da Silva}
 
@@ -29,7 +30,7 @@
 				Alunos\qquad\qquad\= Igor Abreu da Silva\\
 				DRE\> 112053874 \\
 				Curso\> Engenharia Eletrônica \\
-				Turma\> 2016/1 \\
+				Turma\> 2016/2 \\
 				Professor\> Natanael Nunes de Moura Junior \\
 			
 			\end{tabbing}
@@ -38,7 +39,7 @@
 		
 		\begin{center}
 			\vspace{\fill}
-			Rio de Janeiro, 15 de Julho de 2016
+			Rio de Janeiro, 09 de Dezembro de 2016
 		\end{center}
 	\end{titlepage}
 
@@ -50,16 +51,81 @@
 	
 	\newpage
 	\pagenumbering{arabic}
-	
-	\section{Quest\~{a}o 1}
-		\subsection{Circuito 1}
-			Nesta sessão será resolvida toda a parte necessária para encontra a função/utilidade de cada um dos circuitos. Analisaremos todos os pontos correspondentes aos itens \textbf{(a)}, \textbf{(b)}, \textbf{(c)}, \textbf{(d)}, \textbf{(e)} e \textbf{(f)} do trabalho final. 
-			
-			
-			Serão assumidos aqui que os sistemas encontram-se o zerados no instante $t = 0^{-}$.
-			\subsubsection{Determinar a função do circuto}
-			
+	\section{Conhecimentos}
+		\subsection{Leis de kirchhoff}\label{kirchhoff}
+		\subsubsection{Lei das Correntes}
+			A soma das correntes em um nó e igual a zero.
+		\subsubsection{Lei das Tensões}
+			A soma das tensões em uma malha fechada é nula.
+		\subsection{Propriedades de Laplace}
+			\subsubsection{Propriedade da diferenciação}\label{derivada}
+			\[
+			x(t) \Rightarrow X(S) \rightarrow \int_{0}^{+\infty} \frac{dx}{dt}e^{-st}dt \Rightarrow s\int_{0}^{\infty} x(t)e^{-st}dt - x(0^{-}) = sX(s) - x(0^{-})
+			\]
+		\subsection{Função de Transferência}
+		É a relação da saida sobre a entradas $H(S) = \frac{Y(S)}{X(S)}$			
+		\subsection{Pólos e Zeros}\label{zero}
+		Pólos são valores de \textbf{s} onde temos uma indefinição na função de transferência, ou seja quando o denominador é zero.
 
+		
+		Zeros são todos os valores de \textbf{s} que zera a função de transferência, em outras palavras fazem com que o numerador seja igual a zero.
+		\subsection{Diagrama de Bode}\label{bode}
+		\[
+		H(S) = \frac{Y(s)}{X(S)} \Rightarrow \frac{\textcolor{blue}{k}(\textcolor{red}{s+a_{1}})}{\textcolor{Brown}{s}(\textcolor{Violet}{s+b_{1}})(\textcolor{Orange}{s^{2}+b_{2}s+b_{3}})}
+		\]
+		Organizando esta equação, temos:
+		\[
+		 \frac{\textcolor{blue}{k}(\textcolor{red}{a_{1}(\frac{s}{a_{1}}+1)})}{\textcolor{Brown}{s}\textcolor{Violet}{b_{1}}\textcolor{Orange}{b_{3}}(\textcolor{Violet}{\frac{s}{b_{1}}+1})(\textcolor{Orange}{\frac{s^{2}}{b_{3}}+\frac{b_{2}s}{b_{3}}+1})}
+		\]		
+		Com isso, teremos:
+		\[
+		|H(jw)| = 		 \frac{\textcolor{blue}{k}(\textcolor{red}{a_{1}(\frac{jw}{a_{1}}+1)})}{\textcolor{Brown}{jw}\textcolor{Violet}{b_{1}}\textcolor{Orange}{b_{3}}(\textcolor{Violet}{\frac{jw}{b_{1}}+1})(\textcolor{Orange}{\frac{(jw)^{2}}{b_{3}}+\frac{b_{2}jw}{b_{3}}+1})}
+		\]
+		Por questões praticas, com o objetivo de facilitar as contas, adaptaremos essa função para utilizar como a representação magnitude de decibel, logo teremos:\\
+		
+		\[20log(|H(jw)|) = 20log(|\frac{ka_{1}}{b_{1}b{3}}|) + 20log(|\frac{jw}{a_{1}}+1|) - 20log(|jw|) -20log(|\frac{jw}{b_{1}}+1|) 
+		\]
+		\[
+		- 20log(|\frac{(jw)^{2} + b_{2}jw}{b_{3}}+1|)
+		\]
+		Como fase, teremos: 
+		
+		\[
+		\angle H(jw) = \angle (\frac{jw}{a_{1}}+1) - \angle jw - \angle (\frac{jw}{b_{1}}+1) - \angle (\frac{(jw)^{2} + b_{2}jw}{b_{3}}+1)
+		\]
+		
+		\textbf{Para o termo constante: $\frac{ka_{1}}{b_{1}b{3}}$}
+		
+		Modulo começa em $20log(\frac{ka_{1}}{b_{1}b{3}})$ 
+		
+		Fase será $\pi, \frac{ka_{1}}{b_{1}b{3}} > 0$ ou $0, \frac{ka_{1}}{b_{1}b{3}} \leq 0$\\ 
+		
+		\textbf{Termo: $j\omega$} 
+		
+		Modulo -20db/dec (Pólo) ou +20db/dec (zero)
+		
+		Fase $-arctg(\frac{w}{0})$, ou seja, $-90^{o}$ (pólo) $+90^{o}$ (zero)\\
+		
+		\textbf{Primeira Ordem: $\frac{jw}{b_{1}}+1$} 
+		
+		Modulo, começando na frequência de corte $b_{1}$, -20db/dec (Pólo) ou +20db/dec (zero)
+		
+		Fase $0_{o}$ em $\frac{b_{1}}{10}$, $-45^{o}$ (pólo) $+45^{o}$ (zero) em $b_{1}$ e por fim $-90^{o}$ (pólo) $+90^{o}$ (zero) em $100b_{1}$\\
+		
+		\textbf{Segunda Ordem: $\frac{(jw)^{2} + b_{2}jw}{b_{3}}+1$} 
+		
+		Modulo, começando na frequência de corte $b_{3}$, -40db/dec (Pólo) ou +40db/dec (zero)
+		
+		Fase $0_{o}$ em $\frac{b_{3}}{10}$, $-90^{o}$ (pólo) $+90^{o}$ (zero) em $b_{3}$ e por fim $-180^{o}$ (pólo) $+180^{o}$ (zero) em $100b_{3}$\\		
+	\newpage
+	\section{Quest\~{a}o 1}
+		Nesta sessão serão resolvidas todas as partes necessárias para encontrar as funções/utilidades de cada um dos circuitos, bem como a analise de resposta a determinados sinais e todos os itens solicitados na \textbf{Questão 1} do trabalho final de sistemas lineares.
+		
+		O primeiro passo é modelar cada circuito, essa modelagem utilizara as leis de kirchhoff explicadas em \ref{kirchhoff}. Apos a modelagem, encontraremos as E.D.O's, aplicaremos Laplace utilizando a propriedade da Derivação (\ref{derivada}) e com isso encontraremos a função de transferência H(S). Em posse da função de transferência em função dos componentes do circuito, escolheremos o valor comercial de cada componente de acordo com o nosso objetivo, encontraremos os polos e zeros e o diagrama de bode conforme explicado em (\ref{zero}) e (\ref{bode}).
+
+		\subsection{Circuito 1}
+
+			\subsubsection{Determinar a função do circuto}
 			\begin{figure}[!ht]
 				\centering
 				\includegraphics{img/circuito1.png}
@@ -83,10 +149,10 @@
 			
 			Afim de facilitar os cálculos, tomaremos os seguintes valores para cada elemento do circuito:
 			 \begin{itemize}
-			 	\item $R_{1} = 10\Omega;$
-			 	\item $R_{2} = 100\Omega;$
-			 	\item $C = 1F;$
-			 	\item $L = 1H;$
+				\item $R_{1} = 1K \Omega;$
+				\item $R_{2} = 10K \Omega;$
+				\item $C = 220\mu F;$
+				\item $L = 166\eta H;$
 			 \end{itemize}		
 			 
 			Apos aplicar os valores comercias em H(S), temos:
@@ -185,8 +251,8 @@
 			\begin{itemize}
 				\item $R_{1} = 10\Omega;$
 				\item $R_{2} = 100\Omega;$
-				\item $C = 1F;$
-				\item $L = 1H;$
+				\item $C = 220\mu F;$
+				\item $L = 166\eta H;$
 			\end{itemize}	
 							
 			Encontramos a seguinte função de transferência:
