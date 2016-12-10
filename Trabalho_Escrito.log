@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.9.13)  9 DEC 2016 17:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2016.7.14)  9 DEC 2016 23:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Trabalho_Escrito.tex
-(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.tex
-LaTeX2e <2016/03/31> patch level 3
-Babel <3.9r> and hyphenation patterns for 4 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+**./Trabalho_Escrito.tex
+(./Trabalho_Escrito.tex
+LaTeX2e <2016/03/31> patch level 2
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(c:/texlive/2016/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+(c:/texlive/2016/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,32 +23,32 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(c:/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+(c:/texlive/2016/texmf-dist/tex/generic/babel-portuges/portuges.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+(c:/texlive/2016/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 )
 Package babel Info: Making " an active character on input line 145.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(c:/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+(c:/texlive/2016/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+(c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -285,7 +285,7 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+(c:/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -326,7 +326,7 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+(c:/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -350,24 +350,24 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/06/28 v2.15d AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen104
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen105
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count88
@@ -408,13 +408,13 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+(c:/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+(c:/texlive/2016/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+(c:/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count100
@@ -436,31 +436,31 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count116
 \c@blind@pangrammax=\count117
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/06/02 v1.0s Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+(c:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/01 v0.06i Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count118
@@ -468,14 +468,14 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -515,27 +515,27 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen115
 \Hy@linkcounter=\count119
 \Hy@pagecounter=\count120
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count121
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4486.
@@ -547,7 +547,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4735.
 \c@Hy@tempcnt=\count122
 
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(c:/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -572,25 +572,25 @@ LaTeX Info: Redefining \pageref on input line 6416.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
 \Fld@listcount=\count127
 \c@bookmark@seq@number=\count128
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip46
 )
-(/usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
+(c:/texlive/2016/texmf-dist/tex/latex/was/gensymb.sty
 Package: gensymb 2003/07/02 v1.0 (WaS)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(c:/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Package option `usenames' ignored on input line 216.
@@ -605,10 +605,10 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.aux)
+(./Trabalho_Escrito.aux)
 \openout1 = `Trabalho_Escrito.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -626,7 +626,7 @@ LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count129
 \scratchdimen=\dimen119
@@ -639,10 +639,10 @@ LaTeX Font Info:    ... okay on input line 17.
 \MPnumerator=\count133
 \makeMPintoPDFobject=\count134
 \everyMPtoPDFconversion=\toks23
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -652,17 +652,17 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box29
 Package hyperref Info: Link coloring OFF on input line 17.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count135
@@ -671,8 +671,7 @@ LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
 LaTeX Info: Redefining \nameref on input line 17.
 
-(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out)
-(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.out)
+(./Trabalho_Escrito.out) (./Trabalho_Escrito.out)
 \@outlinefile=\write3
 \openout3 = `Trabalho_Escrito.out'.
 
@@ -694,8 +693,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.toc
+{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./Trabalho_Escrito.toc
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 40.
 Package babel Info: Redefining portuges shorthand "|
@@ -704,29 +703,32 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 ...mpa unit\IeC {\'a}ria}{35}{subsection.3.3}
+l.40 ...C {\~o}es do diagrama}{33}{subsection.3.1}
                                                    [1])
 \tf@toc=\write4
 \openout4 = `Trabalho_Escrito.toc'.
 
-
-(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.lof
+ (./Trabalho_Escrito.lof
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 9.
+(babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 9.
-
+(babel)             in language  on input line 3.
 [2]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 31.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 31.
  [3]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 67.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 67.
- [4])
+(babel)             in language  on input line 60.
+ [4]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 91.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 91.
+ [5])
 \tf@lof=\write5
 \openout5 = `Trabalho_Escrito.lof'.
 
@@ -734,7 +736,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 52.
- [5]
+ [6]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 54.
 Package babel Info: Redefining portuges shorthand "|
@@ -815,1398 +817,1492 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 120.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 120.
+(babel)             in language  on input line 123.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 123.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.120 	\newpage
-                [2]
+l.123 		T
+         endo $H(S) = \frac{S+2}{S^{2} + 5S + 4}$, iremos encontrar a respos...
+[2]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 143.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 126.
+(babel)             in language  on input line 150.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 128.
- <img/circuito1.png, id=584, 264.23718pt x 88.07906pt>
-File: img/circuito1.png Graphic file (type png)
-
-<use img/circuito1.png>
-Package pdftex.def Info: img/circuito1.png used on input line 131.
-(pdftex.def)             Requested size: 264.23653pt x 88.07883pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
-
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 145.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 145.
+(babel)             in language  on input line 150.
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.145 			\]
-            	\\ [3 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/
-circuito1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 152.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 152.
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
-
- []
-
-<img/1e_circ1.png, id=590, 482.55281pt x 337.26pt>
-File: img/1e_circ1.png Graphic file (type png)
- <use img/1e_circ1.png>
-Package pdftex.def Info: img/1e_circ1.png used on input line 167.
-(pdftex.def)             Requested size: 337.78465pt x 236.08038pt.
-
-<img/1f_circ1.png, id=591, 421.575pt x 323.70938pt>
-File: img/1f_circ1.png Graphic file (type png)
- <use img/1f_circ1.png>
-Package pdftex.def Info: img/1f_circ1.png used on input line 173.
-(pdftex.def)             Requested size: 379.41399pt x 291.33574pt.
+l.150 	\newpage
+                [3]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 178.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 178.
+(babel)             in language  on input line 156.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 158.
+ <img/circuito1.png, id=657, 264.23718pt x 88.07906pt>
+File: img/circuito1.png Graphic file (type png)
+
+<use img/circuito1.png>
+Package pdftex.def Info: img/circuito1.png used on input line 161.
+(pdftex.def)             Requested size: 264.23653pt x 88.07883pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 175.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 175.
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.178 			\newpage
-                  [4]
+l.175 			\]
+            	\\ [4 <./img/circuito1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 182.
+
+(c:/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 182.
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 179.
- <img/1g_circ1.png, id=595, 382.42876pt x 301.125pt>
-File: img/1g_circ1.png Graphic file (type png)
-
-<use img/1g_circ1.png>
-Package pdftex.def Info: img/1g_circ1.png used on input line 182.
-(pdftex.def)             Requested size: 271.5263pt x 213.80023pt.
+(babel)             in language  on input line 194.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 185.
- <img/1h_circ1.png, id=596, 381.67593pt x 303.38344pt>
-File: img/1h_circ1.png Graphic file (type png)
-
-<use img/1h_circ1.png>
-Package pdftex.def Info: img/1h_circ1.png used on input line 188.
-(pdftex.def)             Requested size: 274.80646pt x 218.4359pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 192.
- <img/1i_circ1.png, id=597, 365.86688pt x 279.29344pt>
-File: img/1i_circ1.png Graphic file (type png)
-
-<use img/1i_circ1.png>
-Package pdftex.def Info: img/1i_circ1.png used on input line 195.
-(pdftex.def)             Requested size: 259.7673pt x 198.29973pt.
- <img/1j_circ1.png, id=598, 365.11406pt x 282.30469pt>
-File: img/1j_circ1.png Graphic file (type png)
-
-<use img/1j_circ1.png>
-Package pdftex.def Info: img/1j_circ1.png used on input line 200.
-(pdftex.def)             Requested size: 259.23279pt x 200.43771pt.
- <img/1k_circ1.png, id=599, 362.85562pt x 280.79906pt>
-File: img/1k_circ1.png Graphic file (type png)
-
-<use img/1k_circ1.png>
-Package pdftex.def Info: img/1k_circ1.png used on input line 205.
-(pdftex.def)             Requested size: 257.62929pt x 199.36871pt.
- <img/1l_circ1.png, id=600, 361.35pt x 281.55188pt>
-File: img/1l_circ1.png Graphic file (type png)
-
-<use img/1l_circ1.png>
-Package pdftex.def Info: img/1l_circ1.png used on input line 210.
-(pdftex.def)             Requested size: 256.56029pt x 199.90321pt.
- <img/1m_circ1.png, id=601, 374.14781pt x 282.30469pt>
-File: img/1m_circ1.png Graphic file (type png)
-
-<use img/1m_circ1.png>
-Package pdftex.def Info: img/1m_circ1.png used on input line 215.
-(pdftex.def)             Requested size: 265.64679pt x 200.43771pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 218.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 194.
 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.218 		\newpage
-                 [5 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img
-/1e_circ1.png>]
+l.194 			\newpage
+                  [5] <img/1e_circ1.png, id=667, 484.05844pt x 316.18124pt>
+File: img/1e_circ1.png Graphic file (type png)
 
-LaTeX Warning: Text page 6 contains only floats.
+<use img/1e_circ1.png>
+Package pdftex.def Info: img/1e_circ1.png used on input line 197.
+(pdftex.def)             Requested size: 338.8386pt x 221.32535pt.
+ <img/1f_circ1.png, id=668, 1445.4pt x 724.95844pt>
+File: img/1f_circ1.png Graphic file (type png)
 
+<use img/1f_circ1.png>
+Package pdftex.def Info: img/1f_circ1.png used on input line 203.
+(pdftex.def)             Requested size: 433.62335pt x 217.4892pt.
 
-Overfull \vbox (2.8026pt too high) has occurred while \output is active []
+Overfull \hbox (43.62335pt too wide) in paragraph at lines 203--204
+ [][] 
+ []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 208.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 218.
+(babel)             in language  on input line 208.
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.208 			\newpage
+                  [6 <./img/1e_circ1.png (PNG copy)> <./img/1f_circ1.png (PNG c
+opy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 209.
+ <img/1g_circ1.png, id=673, 421.575pt x 316.18124pt>
+File: img/1g_circ1.png Graphic file (type png)
 
-[6 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ1.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ1.png>]
+<use img/1g_circ1.png>
+Package pdftex.def Info: img/1g_circ1.png used on input line 212.
+(pdftex.def)             Requested size: 286.66719pt x 215.0004pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 219.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 220.
+(babel)             in language  on input line 215.
+ <img/1h_circ1.png, id=674, 421.575pt x 316.18124pt>
+File: img/1h_circ1.png Graphic file (type png)
 
-<img/circuito2.png, id=612, 203.25937pt x 93.34875pt>
+<use img/1h_circ1.png>
+Package pdftex.def Info: img/1h_circ1.png used on input line 218.
+(pdftex.def)             Requested size: 286.66719pt x 215.0004pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 222.
+ <img/1i_circ1.png, id=675, 421.575pt x 316.18124pt>
+File: img/1i_circ1.png Graphic file (type png)
+
+<use img/1i_circ1.png>
+Package pdftex.def Info: img/1i_circ1.png used on input line 225.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 227.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 227.
+ [7 <./img/1g_circ1.png (PNG copy)> <./img/1h_circ1.png (PNG copy)>] <img/1j_ci
+rc1.png, id=680, 421.575pt x 316.18124pt>
+File: img/1j_circ1.png Graphic file (type png)
+
+<use img/1j_circ1.png>
+Package pdftex.def Info: img/1j_circ1.png used on input line 230.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+ <img/1k_circ1.png, id=681, 421.575pt x 316.18124pt>
+File: img/1k_circ1.png Graphic file (type png)
+
+<use img/1k_circ1.png>
+Package pdftex.def Info: img/1k_circ1.png used on input line 235.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+ <img/1l_circ1.png, id=682, 421.575pt x 316.18124pt>
+File: img/1l_circ1.png Graphic file (type png)
+
+<use img/1l_circ1.png>
+Package pdftex.def Info: img/1l_circ1.png used on input line 240.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+ <img/1m_circ1.png, id=683, 421.575pt x 316.18124pt>
+File: img/1m_circ1.png Graphic file (type png)
+
+<use img/1m_circ1.png>
+Package pdftex.def Info: img/1m_circ1.png used on input line 245.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 248.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 248.
+ [8 <./img/1i_circ1.png (PNG copy)> <./img/1j_circ1.png (PNG copy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 249.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 250.
+ <img/circuito2.png, id=688, 203.25937pt x 93.34875pt>
 File: img/circuito2.png Graphic file (type png)
- <use img/circuito2.png>
-Package pdftex.def Info: img/circuito2.png used on input line 223.
+
+<use img/circuito2.png>
+Package pdftex.def Info: img/circuito2.png used on input line 253.
 (pdftex.def)             Requested size: 203.25887pt x 93.34851pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
-
- []
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 233.
+(babel)             in language  on input line 255.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 233.
-[7 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ1.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
-
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 235.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 235.
-[8 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ1.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ1.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 239.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 239.
-
-[9 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ1.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
+(babel)             in language  on input line 255.
+ [9 <./img/1k_circ1.png (PNG copy)> <./img/1l_circ1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 266.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 266.
+[10 <./img/1m_circ1.png (PNG copy)> <./img/circuito2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
 
  []
 
-<img/1e_circ2.png, id=632, 417.05812pt x 316.18124pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+<img/1e_circ2.png, id=698, 421.575pt x 316.18124pt>
 File: img/1e_circ2.png Graphic file (type png)
  <use img/1e_circ2.png>
-Package pdftex.def Info: img/1e_circ2.png used on input line 265.
-(pdftex.def)             Requested size: 333.64694pt x 252.94533pt.
+Package pdftex.def Info: img/1e_circ2.png used on input line 295.
+(pdftex.def)             Requested size: 337.26045pt x 252.94533pt.
 
-<img/1f_circ2.png, id=633, 456.20438pt x 321.45094pt>
+<img/1f_circ2.png, id=699, 515.67656pt x 316.18124pt>
 File: img/1f_circ2.png Graphic file (type png)
  <use img/1f_circ2.png>
-Package pdftex.def Info: img/1f_circ2.png used on input line 271.
-(pdftex.def)             Requested size: 319.34087pt x 225.01411pt.
+Package pdftex.def Info: img/1f_circ2.png used on input line 301.
+(pdftex.def)             Requested size: 360.97113pt x 221.32535pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 274.
+(babel)             in language  on input line 304.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 274.
+(babel)             in language  on input line 304.
 
-[10 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito2.png>]
+[11]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 277.
-<img/1g_circ2.png, id=639, 379.4175pt x 304.13625pt>
+(babel)             in language  on input line 307.
+ <img/1g_circ2.png, id=704, 421.575pt x 316.18124pt>
 File: img/1g_circ2.png Graphic file (type png)
- <use img/1g_circ2.png>
-Package pdftex.def Info: img/1g_circ2.png used on input line 280.
-(pdftex.def)             Requested size: 269.3883pt x 215.93823pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 282.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 282.
 
-[11 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ2.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ2.png>]
+<use img/1g_circ2.png>
+Package pdftex.def Info: img/1g_circ2.png used on input line 310.
+(pdftex.def)             Requested size: 286.66719pt x 215.0004pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 283.
-
-<img/1h_circ2.png, id=646, 375.65344pt x 295.85532pt>
+(babel)             in language  on input line 312.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 312.
+ [12 <./img/1e_circ2.png (PNG copy)> <./img/1f_circ2.png (PNG copy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 313.
+ <img/1h_circ2.png, id=710, 421.575pt x 316.18124pt>
 File: img/1h_circ2.png Graphic file (type png)
- <use img/1h_circ2.png>
-Package pdftex.def Info: img/1h_circ2.png used on input line 286.
-(pdftex.def)             Requested size: 270.47026pt x 213.01566pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 290.
 
-<img/1i_circ2.png, id=647, 365.11406pt x 279.29344pt>
+<use img/1h_circ2.png>
+Package pdftex.def Info: img/1h_circ2.png used on input line 316.
+(pdftex.def)             Requested size: 286.66719pt x 215.0004pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 320.
+ <img/1i_circ2.png, id=711, 421.575pt x 316.18124pt>
 File: img/1i_circ2.png Graphic file (type png)
- <use img/1i_circ2.png>
-Package pdftex.def Info: img/1i_circ2.png used on input line 293.
-(pdftex.def)             Requested size: 259.23279pt x 198.29973pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 295.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 295.
 
-[12 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ2.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ2.png>]
-<img/1j_circ2.png, id=655, 364.36125pt x 283.0575pt>
+<use img/1i_circ2.png>
+Package pdftex.def Info: img/1i_circ2.png used on input line 323.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 325.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 325.
+ [13 <./img/1g_circ2.png (PNG copy)> <./img/1h_circ2.png (PNG copy)>] <img/1j_c
+irc2.png, id=716, 421.575pt x 316.18124pt>
 File: img/1j_circ2.png Graphic file (type png)
- <use img/1j_circ2.png>
-Package pdftex.def Info: img/1j_circ2.png used on input line 298.
-(pdftex.def)             Requested size: 258.69829pt x 200.97221pt.
 
-<img/1k_circ2.png, id=656, 363.60844pt x 280.04625pt>
+<use img/1j_circ2.png>
+Package pdftex.def Info: img/1j_circ2.png used on input line 328.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+ <img/1k_circ2.png, id=717, 421.575pt x 316.18124pt>
 File: img/1k_circ2.png Graphic file (type png)
- <use img/1k_circ2.png>
-Package pdftex.def Info: img/1k_circ2.png used on input line 303.
-(pdftex.def)             Requested size: 258.16379pt x 198.83421pt.
 
-<img/1l_circ2.png, id=657, 370.38374pt x 280.04625pt>
+<use img/1k_circ2.png>
+Package pdftex.def Info: img/1k_circ2.png used on input line 333.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+ <img/1l_circ2.png, id=718, 421.575pt x 316.18124pt>
 File: img/1l_circ2.png Graphic file (type png)
- <use img/1l_circ2.png>
-Package pdftex.def Info: img/1l_circ2.png used on input line 308.
-(pdftex.def)             Requested size: 262.97429pt x 198.83421pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 311.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 311.
 
-[13 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ2.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ2.png>]
+<use img/1l_circ2.png>
+Package pdftex.def Info: img/1l_circ2.png used on input line 338.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 311.
+(babel)             in language  on input line 341.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 311.
-
-[14 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ2.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ2.png>]
-<img/1m_circ2.png, id=671, 362.85562pt x 281.55188pt>
+(babel)             in language  on input line 341.
+ [14 <./img/1i_circ2.png (PNG copy)> <./img/1j_circ2.png (PNG copy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 341.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 341.
+ [15 <./img/1k_circ2.png (PNG copy)> <./img/1l_circ2.png (PNG copy)>] <img/1m_c
+irc2.png, id=727, 421.575pt x 316.18124pt>
 File: img/1m_circ2.png Graphic file (type png)
  <use img/1m_circ2.png>
-Package pdftex.def Info: img/1m_circ2.png used on input line 314.
-(pdftex.def)             Requested size: 257.62929pt x 199.90321pt.
+Package pdftex.def Info: img/1m_circ2.png used on input line 344.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 317.
+(babel)             in language  on input line 347.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 318.
+(babel)             in language  on input line 348.
 
-<img/circuito3.png, id=672, 337.26pt x 166.37157pt>
+<img/circuito3.png, id=728, 337.26pt x 166.37157pt>
 File: img/circuito3.png Graphic file (type png)
  <use img/circuito3.png>
-Package pdftex.def Info: img/circuito3.png used on input line 321.
+Package pdftex.def Info: img/circuito3.png used on input line 351.
 (pdftex.def)             Requested size: 337.25917pt x 166.37114pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 329.
+(babel)             in language  on input line 357.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 329.
+(babel)             in language  on input line 357.
 
-[15
+[16
 
- </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ2.png> </ho
-me/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 335--336
+ <./img/1m_circ2.png (PNG copy)> <./img/circuito3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 
  []
 
-<img/1e_circ3.png, id=679, 473.51906pt x 325.215pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+
+ []
+
+<img/1e_circ3.png, id=734, 478.78876pt x 316.18124pt>
 File: img/1e_circ3.png Graphic file (type png)
  <use img/1e_circ3.png>
-Package pdftex.def Info: img/1e_circ3.png used on input line 359.
-(pdftex.def)             Requested size: 331.46106pt x 227.64894pt.
+Package pdftex.def Info: img/1e_circ3.png used on input line 389.
+(pdftex.def)             Requested size: 335.14984pt x 221.32535pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 362.
+(babel)             in language  on input line 392.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 362.
+(babel)             in language  on input line 392.
 
-[16] <img/1f_circ3.png, id=684, 465.23813pt x 353.82187pt>
+[17] <img/1f_circ3.png, id=739, 421.575pt x 316.18124pt>
 File: img/1f_circ3.png Graphic file (type png)
 
 <use img/1f_circ3.png>
-Package pdftex.def Info: img/1f_circ3.png used on input line 365.
-(pdftex.def)             Requested size: 325.66446pt x 247.67361pt.
+Package pdftex.def Info: img/1f_circ3.png used on input line 395.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 369.
- <img/1g_circ3.png, id=685, 382.42876pt x 301.8778pt>
+(babel)             in language  on input line 399.
+ <img/1g_circ3.png, id=740, 421.575pt x 316.18124pt>
 File: img/1g_circ3.png Graphic file (type png)
 
 <use img/1g_circ3.png>
-Package pdftex.def Info: img/1g_circ3.png used on input line 372.
-(pdftex.def)             Requested size: 271.5263pt x 214.33473pt.
+Package pdftex.def Info: img/1g_circ3.png used on input line 402.
+(pdftex.def)             Requested size: 286.66719pt x 215.0004pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 374.
+(babel)             in language  on input line 404.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 374.
- [17 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ3.png> 
-</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ3.png>]
+(babel)             in language  on input line 404.
+ [18 <./img/1e_circ3.png (PNG copy)> <./img/1f_circ3.png (PNG copy)>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 375.
- <img/1h_circ3.png, id=692, 370.38374pt x 295.1025pt>
+(babel)             in language  on input line 405.
+ <img/1h_circ3.png, id=746, 421.575pt x 316.18124pt>
 File: img/1h_circ3.png Graphic file (type png)
 
 <use img/1h_circ3.png>
-Package pdftex.def Info: img/1h_circ3.png used on input line 378.
-(pdftex.def)             Requested size: 266.67609pt x 212.47362pt.
+Package pdftex.def Info: img/1h_circ3.png used on input line 408.
+(pdftex.def)             Requested size: 286.66719pt x 215.0004pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 382.
- <img/1i_circ3.png, id=693, 368.87813pt x 282.30469pt>
+(babel)             in language  on input line 412.
+ <img/1i_circ3.png, id=747, 421.575pt x 316.18124pt>
 File: img/1i_circ3.png Graphic file (type png)
 
 <use img/1i_circ3.png>
-Package pdftex.def Info: img/1i_circ3.png used on input line 385.
-(pdftex.def)             Requested size: 261.90529pt x 200.43771pt.
+Package pdftex.def Info: img/1i_circ3.png used on input line 415.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 387.
+(babel)             in language  on input line 417.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 387.
- [18 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ3.png> 
-</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ3.png>] <img
-/1j_circ3.png, id=700, 367.3725pt x 279.29344pt>
+(babel)             in language  on input line 417.
+ [19 <./img/1g_circ3.png (PNG copy)> <./img/1h_circ3.png (PNG copy)>] <img/1j_c
+irc3.png, id=752, 421.575pt x 316.18124pt>
 File: img/1j_circ3.png Graphic file (type png)
 
 <use img/1j_circ3.png>
-Package pdftex.def Info: img/1j_circ3.png used on input line 390.
-(pdftex.def)             Requested size: 260.83629pt x 198.29973pt.
- <img/1k_circ3.png, id=701, 365.86688pt x 281.55188pt>
+Package pdftex.def Info: img/1j_circ3.png used on input line 420.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+ <img/1k_circ3.png, id=753, 421.575pt x 316.18124pt>
 File: img/1k_circ3.png Graphic file (type png)
 
 <use img/1k_circ3.png>
-Package pdftex.def Info: img/1k_circ3.png used on input line 395.
-(pdftex.def)             Requested size: 259.7673pt x 199.90321pt.
- <img/1l_circ3.png, id=702, 364.36125pt x 280.79906pt>
+Package pdftex.def Info: img/1k_circ3.png used on input line 425.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+ <img/1l_circ3.png, id=754, 421.575pt x 316.18124pt>
 File: img/1l_circ3.png Graphic file (type png)
 
 <use img/1l_circ3.png>
-Package pdftex.def Info: img/1l_circ3.png used on input line 400.
-(pdftex.def)             Requested size: 258.69829pt x 199.36871pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 403.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 403.
- [19 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ3.png> 
-</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ3.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 403.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 403.
- [20 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ3.png> 
-</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ3.png>] <img
-/1m_circ3.png, id=716, 363.60844pt x 283.81032pt>
+Package pdftex.def Info: img/1l_circ3.png used on input line 430.
+(pdftex.def)             Requested size: 286.66719pt x 215.0004pt.
+ <img/1m_circ3.png, id=755, 421.575pt x 316.18124pt>
 File: img/1m_circ3.png Graphic file (type png)
 
 <use img/1m_circ3.png>
-Package pdftex.def Info: img/1m_circ3.png used on input line 406.
-(pdftex.def)             Requested size: 258.16379pt x 201.50673pt.
+Package pdftex.def Info: img/1m_circ3.png used on input line 435.
+(pdftex.def)             Requested size: 286.66719pt x 215.0004pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 409.
+(babel)             in language  on input line 438.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 410.
- <img/circuito4.png, id=717, 188.95593pt x 154.32657pt>
+(babel)             in language  on input line 439.
+ <img/circuito4.png, id=756, 188.95593pt x 154.32657pt>
 File: img/circuito4.png Graphic file (type png)
 
 <use img/circuito4.png>
-Package pdftex.def Info: img/circuito4.png used on input line 413.
+Package pdftex.def Info: img/circuito4.png used on input line 442.
 (pdftex.def)             Requested size: 188.95546pt x 154.32617pt.
- <img/1f_circ4.png, id=718, 419.31656pt x 347.79938pt>
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 444.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 444.
+ [20 <./img/1i_circ3.png (PNG copy)> <./img/1j_circ3.png (PNG copy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 444.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 444.
+ [21 <./img/1k_circ3.png (PNG copy)> <./img/1l_circ3.png (PNG copy)>] <img/1f_c
+irc4.png, id=765, 419.31656pt x 347.79938pt>
 File: img/1f_circ4.png Graphic file (type png)
 
 <use img/1f_circ4.png>
-Package pdftex.def Info: img/1f_circ4.png used on input line 420.
+Package pdftex.def Info: img/1f_circ4.png used on input line 449.
 (pdftex.def)             Requested size: 293.51958pt x 243.4579pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 423.
- <img/1g_circ4.png, id=719, 366.61969pt x 299.61937pt>
+(babel)             in language  on input line 452.
+ <img/1g_circ4.png, id=766, 366.61969pt x 299.61937pt>
 File: img/1g_circ4.png Graphic file (type png)
 
 <use img/1g_circ4.png>
-Package pdftex.def Info: img/1g_circ4.png used on input line 426.
-(pdftex.def)             Requested size: 260.30179pt x 212.73123pt.
+Package pdftex.def Info: img/1g_circ4.png used on input line 455.
+(pdftex.def)             Requested size: 249.29808pt x 203.73846pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 428.
+(babel)             in language  on input line 457.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 428.
- [21
-
- </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ3.png> </ho
-me/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito4.png>]
+(babel)             in language  on input line 457.
+ [22 <./img/1m_circ3.png (PNG copy)> <./img/circuito4.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 429.
- <img/1h_circ4.png, id=726, 362.10281pt x 299.61937pt>
+(babel)             in language  on input line 458.
+ <img/1h_circ4.png, id=772, 362.10281pt x 299.61937pt>
 File: img/1h_circ4.png Graphic file (type png)
 
 <use img/1h_circ4.png>
-Package pdftex.def Info: img/1h_circ4.png used on input line 432.
-(pdftex.def)             Requested size: 260.7138pt x 215.72578pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 434.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 434.
- [22 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ4.png> 
-</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ4.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 436.
- <img/1i_circ4.png, id=733, 364.36125pt x 279.29344pt>
-File: img/1i_circ4.png Graphic file (type png)
-
-<use img/1i_circ4.png>
-Package pdftex.def Info: img/1i_circ4.png used on input line 439.
-(pdftex.def)             Requested size: 258.69829pt x 198.29973pt.
- <img/1j_circ4.png, id=734, 367.3725pt x 280.04625pt>
-File: img/1j_circ4.png Graphic file (type png)
-
-<use img/1j_circ4.png>
-Package pdftex.def Info: img/1j_circ4.png used on input line 444.
-(pdftex.def)             Requested size: 260.83629pt x 198.83421pt.
- <img/1k_circ4.png, id=735, 367.3725pt x 280.79906pt>
-File: img/1k_circ4.png Graphic file (type png)
-
-<use img/1k_circ4.png>
-Package pdftex.def Info: img/1k_circ4.png used on input line 449.
-(pdftex.def)             Requested size: 260.83629pt x 199.36871pt.
- <img/1l_circ4.png, id=736, 368.87813pt x 280.04625pt>
-File: img/1l_circ4.png Graphic file (type png)
-
-<use img/1l_circ4.png>
-Package pdftex.def Info: img/1l_circ4.png used on input line 454.
-(pdftex.def)             Requested size: 261.90529pt x 198.83421pt.
- <img/1m_circ4.png, id=737, 365.86688pt x 283.81032pt>
-File: img/1m_circ4.png Graphic file (type png)
-
-<use img/1m_circ4.png>
-Package pdftex.def Info: img/1m_circ4.png used on input line 459.
-(pdftex.def)             Requested size: 259.7673pt x 201.50673pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 462.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 462.
- [23 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ4.png> 
-</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ4.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 462.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 462.
- [24 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ4.png> 
-</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ4.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 462.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 462.
- [25 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ4.png> 
-</home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ4.png>]
+Package pdftex.def Info: img/1h_circ4.png used on input line 461.
+(pdftex.def)             Requested size: 246.22664pt x 203.73846pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 463.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 464.
- <img/circuito5.png, id=757, 294.34969pt x 140.77594pt>
-File: img/circuito5.png Graphic file (type png)
+(babel)             in language  on input line 463.
+ [23 <./img/1f_circ4.png> <./img/1g_circ4.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 465.
 
-<use img/circuito5.png>
-Package pdftex.def Info: img/circuito5.png used on input line 467.
+<img/1i_circ4.png, id=780, 421.575pt x 316.18124pt>
+File: img/1i_circ4.png Graphic file (type png)
+ <use img/1i_circ4.png>
+Package pdftex.def Info: img/1i_circ4.png used on input line 468.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+
+<img/1j_circ4.png, id=781, 421.575pt x 316.18124pt>
+File: img/1j_circ4.png Graphic file (type png)
+ <use img/1j_circ4.png>
+Package pdftex.def Info: img/1j_circ4.png used on input line 473.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+
+<img/1k_circ4.png, id=782, 421.575pt x 316.18124pt>
+File: img/1k_circ4.png Graphic file (type png)
+ <use img/1k_circ4.png>
+Package pdftex.def Info: img/1k_circ4.png used on input line 478.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+
+<img/1l_circ4.png, id=783, 421.575pt x 316.18124pt>
+File: img/1l_circ4.png Graphic file (type png)
+ <use img/1l_circ4.png>
+Package pdftex.def Info: img/1l_circ4.png used on input line 483.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+
+<img/1m_circ4.png, id=784, 421.575pt x 316.18124pt>
+File: img/1m_circ4.png Graphic file (type png)
+ <use img/1m_circ4.png>
+Package pdftex.def Info: img/1m_circ4.png used on input line 488.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 491.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 491.
+
+[24 <./img/1h_circ4.png> <./img/1i_circ4.png (PNG copy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 491.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 491.
+ [25 <./img/1j_circ4.png (PNG copy)> <./img/1k_circ4.png (PNG copy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 491.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 491.
+ [26 <./img/1l_circ4.png (PNG copy)> <./img/1m_circ4.png (PNG copy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 492.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 493.
+
+<img/circuito5.png, id=799, 294.34969pt x 140.77594pt>
+File: img/circuito5.png Graphic file (type png)
+ <use img/circuito5.png>
+Package pdftex.def Info: img/circuito5.png used on input line 496.
 (pdftex.def)             Requested size: 294.34895pt x 140.77557pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--475
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 480--481
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
 
  []
 
-<img/1e_circ5.png, id=758, 402.75468pt x 323.70938pt>
+<img/1e_circ5.png, id=800, 421.575pt x 316.18124pt>
 File: img/1e_circ5.png Graphic file (type png)
  <use img/1e_circ5.png>
-Package pdftex.def Info: img/1e_circ5.png used on input line 498.
-(pdftex.def)             Requested size: 302.06526pt x 242.78143pt.
+Package pdftex.def Info: img/1e_circ5.png used on input line 527.
+(pdftex.def)             Requested size: 316.18047pt x 237.13535pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 501.
+(babel)             in language  on input line 530.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 501.
+(babel)             in language  on input line 530.
 
-[26
+[27
 
- </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/circuito5.png>] <i
-mg/1f_circ5.png, id=764, 371.88937pt x 302.63063pt>
+ <./img/circuito5.png>] <img/1f_circ5.png, id=806, 421.575pt x 316.18124pt>
 File: img/1f_circ5.png Graphic file (type png)
- <use img/1f_circ5.png>
-Package pdftex.def Info: img/1f_circ5.png used on input line 504.
-(pdftex.def)             Requested size: 290.07254pt x 236.05093pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 510.
 
-<img/1g_circ5.png, id=765, 374.14781pt x 296.60812pt>
+<use img/1f_circ5.png>
+Package pdftex.def Info: img/1f_circ5.png used on input line 533.
+(pdftex.def)             Requested size: 295.10048pt x 221.32535pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 539.
+ <img/1g_circ5.png, id=807, 421.575pt x 316.18124pt>
 File: img/1g_circ5.png Graphic file (type png)
- <use img/1g_circ5.png>
-Package pdftex.def Info: img/1g_circ5.png used on input line 513.
-(pdftex.def)             Requested size: 265.64679pt x 210.59323pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 515.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 515.
 
-[27 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1e_circ5.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1f_circ5.png>]
+<use img/1g_circ5.png>
+Package pdftex.def Info: img/1g_circ5.png used on input line 542.
+(pdftex.def)             Requested size: 286.66719pt x 215.0004pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 516.
-
-<img/1h_circ5.png, id=772, 367.3725pt x 298.11375pt>
+(babel)             in language  on input line 544.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 544.
+ [28 <./img/1e_circ5.png (PNG copy)> <./img/1f_circ5.png (PNG copy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 545.
+ <img/1h_circ5.png, id=812, 421.575pt x 316.18124pt>
 File: img/1h_circ5.png Graphic file (type png)
- <use img/1h_circ5.png>
-Package pdftex.def Info: img/1h_circ5.png used on input line 519.
-(pdftex.def)             Requested size: 264.50798pt x 214.64174pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 523.
 
-<img/1i_circ5.png, id=773, 356.83313pt x 281.55188pt>
+<use img/1h_circ5.png>
+Package pdftex.def Info: img/1h_circ5.png used on input line 548.
+(pdftex.def)             Requested size: 286.66719pt x 215.0004pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 552.
+ <img/1i_circ5.png, id=813, 421.575pt x 316.18124pt>
 File: img/1i_circ5.png Graphic file (type png)
- <use img/1i_circ5.png>
-Package pdftex.def Info: img/1i_circ5.png used on input line 526.
-(pdftex.def)             Requested size: 253.35329pt x 199.90321pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 528.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 528.
 
-[28 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1g_circ5.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1h_circ5.png>]
-<img/1j_circ5.png, id=780, 365.11406pt x 285.31593pt>
+<use img/1i_circ5.png>
+Package pdftex.def Info: img/1i_circ5.png used on input line 555.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 557.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 557.
+ [29 <./img/1g_circ5.png (PNG copy)> <./img/1h_circ5.png (PNG copy)>] <img/1j_c
+irc5.png, id=818, 421.575pt x 316.18124pt>
 File: img/1j_circ5.png Graphic file (type png)
- <use img/1j_circ5.png>
-Package pdftex.def Info: img/1j_circ5.png used on input line 531.
-(pdftex.def)             Requested size: 259.23279pt x 202.57573pt.
 
-<img/1k_circ5.png, id=781, 363.60844pt x 282.30469pt>
+<use img/1j_circ5.png>
+Package pdftex.def Info: img/1j_circ5.png used on input line 560.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+ <img/1k_circ5.png, id=819, 421.575pt x 316.18124pt>
 File: img/1k_circ5.png Graphic file (type png)
- <use img/1k_circ5.png>
-Package pdftex.def Info: img/1k_circ5.png used on input line 536.
-(pdftex.def)             Requested size: 258.16379pt x 200.43771pt.
 
-<img/1l_circ5.png, id=782, 365.86688pt x 280.04625pt>
+<use img/1k_circ5.png>
+Package pdftex.def Info: img/1k_circ5.png used on input line 565.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+ <img/1l_circ5.png, id=820, 421.575pt x 316.18124pt>
 File: img/1l_circ5.png Graphic file (type png)
- <use img/1l_circ5.png>
-Package pdftex.def Info: img/1l_circ5.png used on input line 541.
-(pdftex.def)             Requested size: 259.7673pt x 198.83421pt.
 
-<img/1m_circ5.png, id=783, 364.36125pt x 281.55188pt>
+<use img/1l_circ5.png>
+Package pdftex.def Info: img/1l_circ5.png used on input line 570.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
+ <img/1m_circ5.png, id=821, 421.575pt x 316.18124pt>
 File: img/1m_circ5.png Graphic file (type png)
- <use img/1m_circ5.png>
-Package pdftex.def Info: img/1m_circ5.png used on input line 546.
-(pdftex.def)             Requested size: 258.69829pt x 199.90321pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 550.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 550.
 
-[29 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1i_circ5.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1j_circ5.png>]
+<use img/1m_circ5.png>
+Package pdftex.def Info: img/1m_circ5.png used on input line 575.
+(pdftex.def)             Requested size: 299.32033pt x 224.49025pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 550.
+(babel)             in language  on input line 579.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 550.
+(babel)             in language  on input line 579.
+ [30 <./img/1i_circ5.png (PNG copy)> <./img/1j_circ5.png (PNG copy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 579.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 579.
+ [31 <./img/1k_circ5.png (PNG copy)> <./img/1l_circ5.png (PNG copy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 579.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 579.
+ [32 <./img/1m_circ5.png (PNG copy)>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 580.
 
-[30 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1k_circ5.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1l_circ5.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 550.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 550.
-
-[31 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/1m_circ5.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 551.
-
-<img/db.png, id=803, 248.42813pt x 91.09032pt>
+<img/db.png, id=835, 248.42813pt x 91.09032pt>
 File: img/db.png Graphic file (type png)
  <use img/db.png>
-Package pdftex.def Info: img/db.png used on input line 555.
+Package pdftex.def Info: img/db.png used on input line 584.
 (pdftex.def)             Requested size: 248.42752pt x 91.09007pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 558.
+(babel)             in language  on input line 587.
 
-Underfull \hbox (badness 10000) in paragraph at lines 583--584
+Underfull \hbox (badness 10000) in paragraph at lines 612--613
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 587.
+(babel)             in language  on input line 616.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 587.
-[32
+(babel)             in language  on input line 616.
+[33
 
- </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/db.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 589--590
+ <./img/db.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
 
  []
 
-<img/2b.png, id=811, 372.64218pt x 283.0575pt>
+<img/2b.png, id=843, 372.64218pt x 283.0575pt>
 File: img/2b.png Graphic file (type png)
  <use img/2b.png>
-Package pdftex.def Info: img/2b.png used on input line 594.
+Package pdftex.def Info: img/2b.png used on input line 623.
 (pdftex.def)             Requested size: 372.64127pt x 283.0568pt.
-
-<img/2c.png, id=812, 374.90062pt x 282.30469pt>
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 626.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 626.
+ [34 <./img/2b.png>] <img/2c.png, id=849, 374.90062pt x 282.30469pt>
 File: img/2c.png Graphic file (type png)
  <use img/2c.png>
-Package pdftex.def Info: img/2c.png used on input line 598.
-(pdftex.def)             Requested size: 374.8997pt x 282.30399pt.
+Package pdftex.def Info: img/2c.png used on input line 629.
+(pdftex.def)             Requested size: 266.1813pt x 200.43771pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 601.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 601.
- [33 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2b.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 602.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 602.
- [34 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2c.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 603.
+(babel)             in language  on input line 632.
 
-<img/2f.png, id=823, 372.64218pt x 281.55188pt>
+<img/2f.png, id=850, 372.64218pt x 281.55188pt>
 File: img/2f.png Graphic file (type png)
  <use img/2f.png>
-Package pdftex.def Info: img/2f.png used on input line 606.
+Package pdftex.def Info: img/2f.png used on input line 635.
 (pdftex.def)             Requested size: 264.57779pt x 199.90321pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 610.
-
-<img/2g.png, id=824, 362.85562pt x 279.29344pt>
+(babel)             in language  on input line 638.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 638.
+ [35 <./img/2c.png> <./img/2f.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 639.
+ <img/2g.png, id=857, 362.85562pt x 279.29344pt>
 File: img/2g.png Graphic file (type png)
- <use img/2g.png>
-Package pdftex.def Info: img/2g.png used on input line 613.
+
+<use img/2g.png>
+Package pdftex.def Info: img/2g.png used on input line 642.
 (pdftex.def)             Requested size: 257.62929pt x 198.29973pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 617.
-
-<img/2h.png, id=825, 363.60844pt x 283.0575pt>
+(babel)             in language  on input line 646.
+ <img/2h.png, id=858, 363.60844pt x 283.0575pt>
 File: img/2h.png Graphic file (type png)
- <use img/2h.png>
-Package pdftex.def Info: img/2h.png used on input line 620.
+
+<use img/2h.png>
+Package pdftex.def Info: img/2h.png used on input line 649.
 (pdftex.def)             Requested size: 258.16379pt x 200.97221pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 622.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 622.
- [35
-
- </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2f.png> </home/igo
-r/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2g.png>]
-<img/2i.png, id=832, 362.10281pt x 279.29344pt>
+ <img/2i.png, id=859, 362.10281pt x 279.29344pt>
 File: img/2i.png Graphic file (type png)
- <use img/2i.png>
-Package pdftex.def Info: img/2i.png used on input line 625.
+
+<use img/2i.png>
+Package pdftex.def Info: img/2i.png used on input line 654.
 (pdftex.def)             Requested size: 257.09479pt x 198.29973pt.
-
-<img/2j.png, id=833, 356.0803pt x 281.55188pt>
+ <img/2j.png, id=860, 356.0803pt x 281.55188pt>
 File: img/2j.png Graphic file (type png)
- <use img/2j.png>
-Package pdftex.def Info: img/2j.png used on input line 630.
+
+<use img/2j.png>
+Package pdftex.def Info: img/2j.png used on input line 659.
 (pdftex.def)             Requested size: 252.81879pt x 199.90321pt.
-
-<img/2k.png, id=834, 373.395pt x 280.79906pt>
+ <img/2k.png, id=861, 373.395pt x 280.79906pt>
 File: img/2k.png Graphic file (type png)
- <use img/2k.png>
-Package pdftex.def Info: img/2k.png used on input line 635.
-(pdftex.def)             Requested size: 265.1123pt x 199.36871pt.
 
-<img/2l.png, id=835, 359.09157pt x 280.79906pt>
+<use img/2k.png>
+Package pdftex.def Info: img/2k.png used on input line 664.
+(pdftex.def)             Requested size: 265.1123pt x 199.36871pt.
+ <img/2l.png, id=862, 359.09157pt x 280.79906pt>
 File: img/2l.png Graphic file (type png)
- <use img/2l.png>
-Package pdftex.def Info: img/2l.png used on input line 640.
+
+<use img/2l.png>
+Package pdftex.def Info: img/2l.png used on input line 669.
 (pdftex.def)             Requested size: 254.95679pt x 199.36871pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 643.
+(babel)             in language  on input line 672.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 643.
- [36 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2h.png> </home
-/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2i.png>]
+(babel)             in language  on input line 672.
+ [36 <./img/2g.png> <./img/2h.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 643.
+(babel)             in language  on input line 672.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 643.
- [37 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2j.png> </home
-/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2k.png>]
+(babel)             in language  on input line 672.
+ [37 <./img/2i.png> <./img/2j.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 643.
+(babel)             in language  on input line 672.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 643.
- [38 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/2l.png>]
+(babel)             in language  on input line 672.
+ [38 <./img/2k.png> <./img/2l.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 645.
+(babel)             in language  on input line 674.
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--650
+Underfull \hbox (badness 10000) in paragraph at lines 678--679
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 652--653
+Underfull \hbox (badness 10000) in paragraph at lines 681--682
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 654.
+(babel)             in language  on input line 683.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 656.
+(babel)             in language  on input line 685.
 
-Underfull \hbox (badness 10000) in paragraph at lines 659--660
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 662--663
+Underfull \hbox (badness 10000) in paragraph at lines 691--692
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 663.
+(babel)             in language  on input line 692.
 
-Underfull \hbox (badness 10000) in paragraph at lines 666--667
+Underfull \hbox (badness 10000) in paragraph at lines 695--696
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 669--670
+Underfull \hbox (badness 10000) in paragraph at lines 698--699
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 670.
+(babel)             in language  on input line 699.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 670.
+(babel)             in language  on input line 699.
 [39
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 671.
+(babel)             in language  on input line 700.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 672.
+(babel)             in language  on input line 701.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 672.
+(hyperref)                removing `math shift' on input line 701.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 672.
+(hyperref)                removing `\alpha' on input line 701.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 672.
+(hyperref)                removing `math shift' on input line 701.
 
-<img/3b_alfa.png, id=858, 776.14969pt x 374.90062pt>
+<img/3b_alfa.png, id=886, 776.14969pt x 374.90062pt>
 File: img/3b_alfa.png Graphic file (type png)
  <use img/3b_alfa.png>
-Package pdftex.def Info: img/3b_alfa.png used on input line 675.
+Package pdftex.def Info: img/3b_alfa.png used on input line 704.
 (pdftex.def)             Requested size: 388.0739pt x 187.44984pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 678.
+(babel)             in language  on input line 707.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 678.
+(hyperref)                removing `math shift' on input line 707.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 678.
+(hyperref)                removing `\beta' on input line 707.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 678.
+(hyperref)                removing `math shift' on input line 707.
 
-<img/3b_beta.png, id=859, 717.43031pt x 395.97937pt>
+<img/3b_beta.png, id=887, 717.43031pt x 395.97937pt>
 File: img/3b_beta.png Graphic file (type png)
  <use img/3b_beta.png>
-Package pdftex.def Info: img/3b_beta.png used on input line 681.
+Package pdftex.def Info: img/3b_beta.png used on input line 710.
 (pdftex.def)             Requested size: 394.58789pt x 217.78932pt.
 
-Overfull \hbox (4.58789pt too wide) in paragraph at lines 681--682
+Overfull \hbox (4.58789pt too wide) in paragraph at lines 710--711
  [][] 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 684.
+(babel)             in language  on input line 713.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 685.
+(babel)             in language  on input line 714.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 685.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 685.
+(hyperref)                removing `math shift' on input line 714.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 685.
+(hyperref)                removing `\alpha' on input line 714.
 
-<img/3c_alfa.png, id=860, 640.64343pt x 475.02469pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 714.
+
+<img/3c_alfa.png, id=888, 640.64343pt x 475.02469pt>
 File: img/3c_alfa.png Graphic file (type png)
  <use img/3c_alfa.png>
-Package pdftex.def Info: img/3c_alfa.png used on input line 688.
+Package pdftex.def Info: img/3c_alfa.png used on input line 717.
 (pdftex.def)             Requested size: 269.0684pt x 199.509pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 690.
+(babel)             in language  on input line 719.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 690.
+(babel)             in language  on input line 719.
 
-[40 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3b_alfa.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3b_beta.png>]
+[40 <./img/3b_alfa.png> <./img/3b_beta.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 691.
+(babel)             in language  on input line 720.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 691.
+(hyperref)                removing `math shift' on input line 720.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 691.
+(hyperref)                removing `\beta' on input line 720.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 691.
+(hyperref)                removing `math shift' on input line 720.
 
-<img/3c_beta.png, id=867, 590.205pt x 436.63126pt>
+<img/3c_beta.png, id=896, 590.205pt x 436.63126pt>
 File: img/3c_beta.png Graphic file (type png)
  <use img/3c_beta.png>
-Package pdftex.def Info: img/3c_beta.png used on input line 694.
+Package pdftex.def Info: img/3c_beta.png used on input line 723.
 (pdftex.def)             Requested size: 271.49759pt x 200.85281pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 697.
+(babel)             in language  on input line 726.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 698.
+(babel)             in language  on input line 727.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 698.
+(hyperref)                removing `math shift' on input line 727.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 698.
+(hyperref)                removing `\alpha' on input line 727.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 698.
+(hyperref)                removing `math shift' on input line 727.
 
-<img/3d_alfa.png, id=868, 825.0825pt x 319.94531pt>
+<img/3d_alfa.png, id=897, 825.0825pt x 319.94531pt>
 File: img/3d_alfa.png Graphic file (type png)
  <use img/3d_alfa.png>
-Package pdftex.def Info: img/3d_alfa.png used on input line 701.
+Package pdftex.def Info: img/3d_alfa.png used on input line 730.
 (pdftex.def)             Requested size: 371.28369pt x 143.97404pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 703.
+(babel)             in language  on input line 732.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 703.
+(babel)             in language  on input line 732.
 
-[41 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3c_alfa.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3c_beta.png>]
+[41 <./img/3c_alfa.png> <./img/3c_beta.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 704.
+(babel)             in language  on input line 733.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 704.
+(hyperref)                removing `math shift' on input line 733.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 704.
+(hyperref)                removing `\beta' on input line 733.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 704.
+(hyperref)                removing `math shift' on input line 733.
 
-<img/3d_beta.png, id=875, 762.59906pt x 306.39468pt>
+<img/3d_beta.png, id=904, 762.59906pt x 306.39468pt>
 File: img/3d_beta.png Graphic file (type png)
  <use img/3d_beta.png>
-Package pdftex.def Info: img/3d_beta.png used on input line 707.
+Package pdftex.def Info: img/3d_beta.png used on input line 736.
 (pdftex.def)             Requested size: 381.2986pt x 153.19696pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 710.
+(babel)             in language  on input line 739.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 710.
+(babel)             in language  on input line 739.
 
-[42 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3d_alfa.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3d_beta.png>]
+[42 <./img/3d_alfa.png> <./img/3d_beta.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 711.
+(babel)             in language  on input line 740.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 712.
+(babel)             in language  on input line 741.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 712.
+(hyperref)                removing `math shift' on input line 741.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 712.
+(hyperref)                removing `\alpha' on input line 741.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 712.
+(hyperref)                removing `math shift' on input line 741.
 
-<img/3e_alfa.png, id=882, 666.99188pt x 402.75468pt>
+<img/3e_alfa.png, id=912, 666.99188pt x 402.75468pt>
 File: img/3e_alfa.png Graphic file (type png)
  <use img/3e_alfa.png>
-Package pdftex.def Info: img/3e_alfa.png used on input line 715.
+Package pdftex.def Info: img/3e_alfa.png used on input line 744.
 (pdftex.def)             Requested size: 333.49512pt x 201.37685pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 718.
+(babel)             in language  on input line 747.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 718.
+(hyperref)                removing `math shift' on input line 747.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 718.
+(hyperref)                removing `\beta' on input line 747.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 718.
+(hyperref)                removing `math shift' on input line 747.
 
-<img/3e_beta.png, id=883, 740.0147pt x 459.21562pt>
+<img/3e_beta.png, id=913, 740.0147pt x 459.21562pt>
 File: img/3e_beta.png Graphic file (type png)
  <use img/3e_beta.png>
-Package pdftex.def Info: img/3e_beta.png used on input line 721.
+Package pdftex.def Info: img/3e_beta.png used on input line 750.
 (pdftex.def)             Requested size: 333.00354pt x 206.64511pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 724.
+(babel)             in language  on input line 753.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 725.
+(babel)             in language  on input line 754.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 725.
+(hyperref)                removing `math shift' on input line 754.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 725.
+(hyperref)                removing `\alpha' on input line 754.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 725.
+(hyperref)                removing `math shift' on input line 754.
 
-<img/3f_alfa.png, id=884, 883.80188pt x 409.53pt>
+<img/3f_alfa.png, id=914, 883.80188pt x 409.53pt>
 File: img/3f_alfa.png Graphic file (type png)
  <use img/3f_alfa.png>
-Package pdftex.def Info: img/3f_alfa.png used on input line 728.
+Package pdftex.def Info: img/3f_alfa.png used on input line 757.
 (pdftex.def)             Requested size: 353.5145pt x 163.80908pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 730.
+(babel)             in language  on input line 759.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 730.
+(babel)             in language  on input line 759.
 
-[43 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3e_alfa.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3e_beta.png>]
-<img/3g_alfa.png, id=892, 733.23938pt x 478.78876pt>
+[43 <./img/3e_alfa.png> <./img/3e_beta.png>]
+<img/3g_alfa.png, id=921, 733.23938pt x 478.78876pt>
 File: img/3g_alfa.png Graphic file (type png)
  <use img/3g_alfa.png>
-Package pdftex.def Info: img/3g_alfa.png used on input line 733.
+Package pdftex.def Info: img/3g_alfa.png used on input line 762.
 (pdftex.def)             Requested size: 366.61879pt x 239.39378pt.
 
-<img/3h_alfa.png, id=893, 696.35156pt x 425.33907pt>
+<img/3h_alfa.png, id=922, 696.35156pt x 425.33907pt>
 File: img/3h_alfa.png Graphic file (type png)
  <use img/3h_alfa.png>
-Package pdftex.def Info: img/3h_alfa.png used on input line 738.
+Package pdftex.def Info: img/3h_alfa.png used on input line 767.
 (pdftex.def)             Requested size: 348.17493pt x 212.669pt.
 
-<img/3i_alfa.png, id=894, 720.44156pt x 469.00218pt>
+<img/3i_alfa.png, id=923, 720.44156pt x 469.00218pt>
 File: img/3i_alfa.png Graphic file (type png)
  <use img/3i_alfa.png>
-Package pdftex.def Info: img/3i_alfa.png used on input line 743.
+Package pdftex.def Info: img/3i_alfa.png used on input line 772.
 (pdftex.def)             Requested size: 360.2199pt x 234.50052pt.
 
-<img/3j_alfa.png, id=895, 768.62157pt x 478.78876pt>
+<img/3j_alfa.png, id=924, 768.62157pt x 478.78876pt>
 File: img/3j_alfa.png Graphic file (type png)
  <use img/3j_alfa.png>
-Package pdftex.def Info: img/3j_alfa.png used on input line 748.
+Package pdftex.def Info: img/3j_alfa.png used on input line 777.
 (pdftex.def)             Requested size: 438.11885pt x 272.91241pt.
 
-Overfull \hbox (48.11885pt too wide) in paragraph at lines 748--749
+Overfull \hbox (48.11885pt too wide) in paragraph at lines 777--778
  [][] 
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 751.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 751.
-[44 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3f_alfa.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3g_alfa.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 751.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 751.
-
-[45 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3h_alfa.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3i_alfa.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 751.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 751.
-
-[46 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3j_alfa.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 752.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 752.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 752.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 752.
-
-<img/3f_beta.png, id=914, 977.15062pt x 421.575pt>
-File: img/3f_beta.png Graphic file (type png)
- <use img/3f_beta.png>
-Package pdftex.def Info: img/3f_beta.png used on input line 755.
-(pdftex.def)             Requested size: 449.49474pt x 193.92685pt.
-
-Overfull \hbox (59.49474pt too wide) in paragraph at lines 755--756
- [][] 
- []
-
-<img/3g_beta.png, id=915, 717.43031pt x 425.33907pt>
-File: img/3g_beta.png Graphic file (type png)
- <use img/3g_beta.png>
-Package pdftex.def Info: img/3g_beta.png used on input line 760.
-(pdftex.def)             Requested size: 408.93953pt x 242.44577pt.
-
-Overfull \hbox (18.93953pt too wide) in paragraph at lines 760--761
- [][] 
- []
-
-<img/3h_beta.png, id=916, 664.73344pt x 426.09187pt>
-File: img/3h_beta.png Graphic file (type png)
- <use img/3h_beta.png>
-Package pdftex.def Info: img/3h_beta.png used on input line 765.
-(pdftex.def)             Requested size: 345.66338pt x 221.56905pt.
-
-<img/3i_beta.png, id=917, 730.98094pt x 485.56406pt>
-File: img/3i_beta.png Graphic file (type png)
- <use img/3i_beta.png>
-Package pdftex.def Info: img/3i_beta.png used on input line 770.
-(pdftex.def)             Requested size: 350.86687pt x 233.0681pt.
-
-<img/3j_beta.png, id=918, 721.94719pt x 469.755pt>
-File: img/3j_beta.png Graphic file (type png)
- <use img/3j_beta.png>
-Package pdftex.def Info: img/3j_beta.png used on input line 775.
-(pdftex.def)             Requested size: 360.9727pt x 234.87692pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 779.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 780.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 780.
+[44 <./img/3f_alfa.png> <./img/3g_alfa.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 780.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 780.
+ [45 <./img/3h_alfa.png> <./img/3i_alfa.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 780.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 780.
+ [46 <./img/3j_alfa.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 781.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 780.
+(hyperref)                removing `math shift' on input line 781.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 780.
+(hyperref)                removing `\beta' on input line 781.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 780.
+(hyperref)                removing `math shift' on input line 781.
 
-<img/3k_alfa1.png, id=919, 797.98125pt x 453.94594pt>
+<img/3f_beta.png, id=942, 977.15062pt x 421.575pt>
+File: img/3f_beta.png Graphic file (type png)
+ <use img/3f_beta.png>
+Package pdftex.def Info: img/3f_beta.png used on input line 784.
+(pdftex.def)             Requested size: 449.49474pt x 193.92685pt.
+
+Overfull \hbox (59.49474pt too wide) in paragraph at lines 784--785
+ [][] 
+ []
+
+<img/3g_beta.png, id=943, 717.43031pt x 425.33907pt>
+File: img/3g_beta.png Graphic file (type png)
+ <use img/3g_beta.png>
+Package pdftex.def Info: img/3g_beta.png used on input line 789.
+(pdftex.def)             Requested size: 408.93953pt x 242.44577pt.
+
+Overfull \hbox (18.93953pt too wide) in paragraph at lines 789--790
+ [][] 
+ []
+
+<img/3h_beta.png, id=944, 664.73344pt x 426.09187pt>
+File: img/3h_beta.png Graphic file (type png)
+ <use img/3h_beta.png>
+Package pdftex.def Info: img/3h_beta.png used on input line 794.
+(pdftex.def)             Requested size: 345.66338pt x 221.56905pt.
+
+<img/3i_beta.png, id=945, 730.98094pt x 485.56406pt>
+File: img/3i_beta.png Graphic file (type png)
+ <use img/3i_beta.png>
+Package pdftex.def Info: img/3i_beta.png used on input line 799.
+(pdftex.def)             Requested size: 350.86687pt x 233.0681pt.
+
+<img/3j_beta.png, id=946, 721.94719pt x 469.755pt>
+File: img/3j_beta.png Graphic file (type png)
+ <use img/3j_beta.png>
+Package pdftex.def Info: img/3j_beta.png used on input line 804.
+(pdftex.def)             Requested size: 360.9727pt x 234.87692pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 808.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 809.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 809.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\alpha' on input line 809.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 809.
+
+<img/3k_alfa1.png, id=947, 797.98125pt x 453.94594pt>
 File: img/3k_alfa1.png Graphic file (type png)
  <use img/3k_alfa1.png>
-Package pdftex.def Info: img/3k_alfa1.png used on input line 783.
+Package pdftex.def Info: img/3k_alfa1.png used on input line 812.
 (pdftex.def)             Requested size: 359.08824pt x 204.27377pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 785.
+(babel)             in language  on input line 814.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 785.
+(babel)             in language  on input line 814.
 
 [47
 
- </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3f_beta.png> </hom
-e/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3g_beta.png>]
+ <./img/3f_beta.png> <./img/3g_beta.png>]
 
 LaTeX Warning: Text page 48 contains only floats.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 785.
+(babel)             in language  on input line 814.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 785.
-[48 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3h_beta.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3i_beta.png>]
-<img/3k_alfa2.png, id=932, 745.28438pt x 484.05844pt>
+(babel)             in language  on input line 814.
+[48 <./img/3h_beta.png> <./img/3i_beta.png>]
+<img/3k_alfa2.png, id=961, 745.28438pt x 484.05844pt>
 File: img/3k_alfa2.png Graphic file (type png)
  <use img/3k_alfa2.png>
-Package pdftex.def Info: img/3k_alfa2.png used on input line 788.
+Package pdftex.def Info: img/3k_alfa2.png used on input line 817.
 (pdftex.def)             Requested size: 357.73244pt x 232.3454pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 790.
+(babel)             in language  on input line 819.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 790.
+(babel)             in language  on input line 819.
 
-[49 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3j_beta.png> </
-home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa1.png>]
-<img/3k_alfa3.png, id=940, 743.77875pt x 514.17094pt>
+[49 <./img/3j_beta.png> <./img/3k_alfa1.png>]
+<img/3k_alfa3.png, id=968, 743.77875pt x 514.17094pt>
 File: img/3k_alfa3.png Graphic file (type png)
  <use img/3k_alfa3.png>
-Package pdftex.def Info: img/3k_alfa3.png used on input line 793.
+Package pdftex.def Info: img/3k_alfa3.png used on input line 822.
 (pdftex.def)             Requested size: 357.00974pt x 246.79926pt.
 
-<img/3k_alfa4.png, id=941, 749.04843pt x 440.39531pt>
+<img/3k_alfa4.png, id=969, 749.04843pt x 440.39531pt>
 File: img/3k_alfa4.png Graphic file (type png)
  <use img/3k_alfa4.png>
-Package pdftex.def Info: img/3k_alfa4.png used on input line 798.
+Package pdftex.def Info: img/3k_alfa4.png used on input line 827.
 (pdftex.def)             Requested size: 389.50743pt x 229.00687pt.
 
-<img/3k_alfa5.png, id=942, 737.75626pt x 461.47406pt>
+<img/3k_alfa5.png, id=970, 737.75626pt x 461.47406pt>
 File: img/3k_alfa5.png Graphic file (type png)
  <use img/3k_alfa5.png>
-Package pdftex.def Info: img/3k_alfa5.png used on input line 803.
+Package pdftex.def Info: img/3k_alfa5.png used on input line 832.
 (pdftex.def)             Requested size: 383.63547pt x 239.96788pt.
 
-<img/3k_alfa6.png, id=943, 740.7675pt x 503.63156pt>
+<img/3k_alfa6.png, id=971, 740.7675pt x 503.63156pt>
 File: img/3k_alfa6.png Graphic file (type png)
  <use img/3k_alfa6.png>
-Package pdftex.def Info: img/3k_alfa6.png used on input line 808.
+Package pdftex.def Info: img/3k_alfa6.png used on input line 837.
 (pdftex.def)             Requested size: 355.56436pt x 241.7404pt.
 
-<img/3k_alfa7.png, id=944, 688.82344pt x 529.98pt>
+<img/3k_alfa7.png, id=972, 688.82344pt x 529.98pt>
 File: img/3k_alfa7.png Graphic file (type png)
  <use img/3k_alfa7.png>
-Package pdftex.def Info: img/3k_alfa7.png used on input line 813.
+Package pdftex.def Info: img/3k_alfa7.png used on input line 842.
 (pdftex.def)             Requested size: 337.52644pt x 259.69246pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 816.
+(babel)             in language  on input line 845.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 816.
+(babel)             in language  on input line 845.
 
-[50 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa2.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa3.png>]
+[50 <./img/3k_alfa2.png> <./img/3k_alfa3.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 816.
+(babel)             in language  on input line 845.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 816.
-
-[51 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa4.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa5.png>]
+(babel)             in language  on input line 845.
+ [51 <./img/3k_alfa4.png> <./img/3k_alfa5.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 816.
+(babel)             in language  on input line 845.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 816.
-
-[52 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa6.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_alfa7.png>]
+(babel)             in language  on input line 845.
+ [52 <./img/3k_alfa6.png> <./img/3k_alfa7.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 817.
+(babel)             in language  on input line 846.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 817.
+(hyperref)                removing `math shift' on input line 846.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\beta' on input line 817.
+(hyperref)                removing `\beta' on input line 846.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 817.
+(hyperref)                removing `math shift' on input line 846.
 
-<img/3k_beta1.png, id=963, 563.10374pt x 401.24907pt>
+<img/3k_beta1.png, id=991, 563.10374pt x 401.24907pt>
 File: img/3k_beta1.png Graphic file (type png)
  <use img/3k_beta1.png>
-Package pdftex.def Info: img/3k_beta1.png used on input line 820.
+Package pdftex.def Info: img/3k_beta1.png used on input line 849.
 (pdftex.def)             Requested size: 326.6004pt x 232.72461pt.
 
-<img/3k_beta2.png, id=964, 617.30624pt x 452.4403pt>
+<img/3k_beta2.png, id=992, 617.30624pt x 452.4403pt>
 File: img/3k_beta2.png Graphic file (type png)
  <use img/3k_beta2.png>
-Package pdftex.def Info: img/3k_beta2.png used on input line 825.
+Package pdftex.def Info: img/3k_beta2.png used on input line 854.
 (pdftex.def)             Requested size: 327.17075pt x 239.79222pt.
 
-<img/3k_beta3.png, id=965, 653.44125pt x 511.9125pt>
+<img/3k_beta3.png, id=993, 653.44125pt x 511.9125pt>
 File: img/3k_beta3.png Graphic file (type png)
  <use img/3k_beta3.png>
-Package pdftex.def Info: img/3k_beta3.png used on input line 830.
+Package pdftex.def Info: img/3k_beta3.png used on input line 859.
 (pdftex.def)             Requested size: 320.18901pt x 250.83932pt.
 
-<img/3k_beta4.png, id=966, 569.87906pt x 432.86719pt>
+<img/3k_beta4.png, id=994, 569.87906pt x 432.86719pt>
 File: img/3k_beta4.png Graphic file (type png)
  <use img/3k_beta4.png>
-Package pdftex.def Info: img/3k_beta4.png used on input line 835.
+Package pdftex.def Info: img/3k_beta4.png used on input line 864.
 (pdftex.def)             Requested size: 324.83443pt x 246.73685pt.
 
-<img/3k_beta5.png, id=967, 599.99156pt x 453.19313pt>
+<img/3k_beta5.png, id=995, 599.99156pt x 453.19313pt>
 File: img/3k_beta5.png Graphic file (type png)
  <use img/3k_beta5.png>
-Package pdftex.def Info: img/3k_beta5.png used on input line 840.
+Package pdftex.def Info: img/3k_beta5.png used on input line 869.
 (pdftex.def)             Requested size: 341.99875pt x 258.32275pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 844.
+(babel)             in language  on input line 872.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 847.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 847.
+(babel)             in language  on input line 872.
 
 [53
 
- </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta1.png> </ho
-me/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta2.png>]
+ <./img/3k_beta1.png> <./img/3k_beta2.png>]
 
 LaTeX Warning: Text page 54 contains only floats.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 847.
+(babel)             in language  on input line 872.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 847.
-[54 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta3.png> <
-/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta4.png>]
+(babel)             in language  on input line 872.
+[54 <./img/3k_beta3.png> <./img/3k_beta4.png>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 857.
+(babel)             in language  on input line 872.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 857.
+(babel)             in language  on input line 872.
+ [55 <./img/3k_beta5.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 874.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 875.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 876.
 
-[55 </home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/img/3k_beta5.png>]
+<img/w.jpg, id=1014, 5331.92pt x 2999.205pt>
+File: img/w.jpg Graphic file (type jpg)
+ <use img/w.jpg>
+Package pdftex.def Info: img/w.jpg used on input line 879.
+(pdftex.def)             Requested size: 319.9014pt x 179.94453pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 882.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 882.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 882.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 882.
+
+<img/01w.jpg, id=1015, 5331.92pt x 2999.205pt>
+File: img/01w.jpg Graphic file (type jpg)
+ <use img/01w.jpg>
+Package pdftex.def Info: img/01w.jpg used on input line 885.
+(pdftex.def)             Requested size: 319.9014pt x 179.94453pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 888.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 888.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 888.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 888.
+
+<img/10w.jpg, id=1016, 5331.92pt x 2999.205pt>
+File: img/10w.jpg Graphic file (type jpg)
+ <use img/10w.jpg>
+Package pdftex.def Info: img/10w.jpg used on input line 891.
+(pdftex.def)             Requested size: 319.9014pt x 179.94453pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 888.
-
-[56]
+(babel)             in language  on input line 893.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 889.
+(babel)             in language  on input line 893.
+ [56
 
-Underfull \hbox (badness 10000) in paragraph at lines 891--892
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 893--894
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 895--896
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 897--898
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 899--900
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 901--902
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 903--904
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 905--906
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 907--908
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 909--910
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 913.
+ <./img/w.jpg> <./img/01w.jpg>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 913.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 913.
-[57]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 913.
+(babel)             in language  on input line 894.
+ <img/harm1.jpg, id=1021, 5331.92pt x 2999.205pt>
+File: img/harm1.jpg Graphic file (type jpg)
 
-(/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Trabalho_Escrito.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 913.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 913.
+<use img/harm1.jpg>
+Package pdftex.def Info: img/harm1.jpg used on input line 897.
+(pdftex.def)             Requested size: 319.9014pt x 179.94453pt.
+ <img/harm3.jpg, id=1022, 5331.92pt x 2999.205pt>
+File: img/harm3.jpg Graphic file (type jpg)
+
+<use img/harm3.jpg>
+Package pdftex.def Info: img/harm3.jpg used on input line 902.
+(pdftex.def)             Requested size: 426.56232pt x 239.9413pt.
+
+Overfull \hbox (36.56232pt too wide) in paragraph at lines 902--903
+ [][] 
+ []
+
+<img/harm5.jpg, id=1023, 5331.92pt x 2999.205pt>
+File: img/harm5.jpg Graphic file (type jpg)
+ <use img/harm5.jpg>
+Package pdftex.def Info: img/harm5.jpg used on input line 907.
+(pdftex.def)             Requested size: 426.56232pt x 239.9413pt.
+
+Overfull \hbox (36.56232pt too wide) in paragraph at lines 907--908
+ [][] 
+ []
+
+<img/harm7.jpg, id=1024, 5331.92pt x 2999.205pt>
+File: img/harm7.jpg Graphic file (type jpg)
+ <use img/harm7.jpg>
+Package pdftex.def Info: img/harm7.jpg used on input line 912.
+(pdftex.def)             Requested size: 319.9014pt x 179.94453pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 916.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 916.
+ [57 <./img/10w.jpg> <./img/harm1.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 916.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 916.
+ [58 <./img/harm3.jpg> <./img/harm5.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 916.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 916.
+ [59 <./img/harm7.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 918.
+ <img/100h.jpg, id=1038, 5331.92pt x 2999.205pt>
+File: img/100h.jpg Graphic file (type jpg)
+
+<use img/100h.jpg>
+Package pdftex.def Info: img/100h.jpg used on input line 921.
+(pdftex.def)             Requested size: 373.27254pt x 209.9658pt.
+ <img/1k.jpg, id=1039, 5331.92pt x 2999.205pt>
+File: img/1k.jpg Graphic file (type jpg)
+
+<use img/1k.jpg>
+Package pdftex.def Info: img/1k.jpg used on input line 926.
+(pdftex.def)             Requested size: 373.27254pt x 209.9658pt.
+ <img/10k.jpg, id=1040, 5331.92pt x 2999.205pt>
+File: img/10k.jpg Graphic file (type jpg)
+
+<use img/10k.jpg>
+Package pdftex.def Info: img/10k.jpg used on input line 931.
+(pdftex.def)             Requested size: 426.56232pt x 239.9413pt.
+
+Overfull \hbox (36.56232pt too wide) in paragraph at lines 931--932
+ [][] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 934.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 934.
+[60
+
+ <./img/100h.jpg> <./img/1k.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 935.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 948.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 948.
+ [61 <./img/10k.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 954.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 954.
+ [62]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 955.
+
+Underfull \hbox (badness 10000) in paragraph at lines 957--958
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 959--960
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--962
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 963--964
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--966
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--968
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 969--970
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 971--972
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 973--974
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 975--976
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 979.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 979.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 979.
+[63]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 979.
+ (./Trabalho_Escrito.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 979.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 979.
 Package rerunfilecheck Info: File `Trabalho_Escrito.out' has not changed.
-(rerunfilecheck)             Checksum: 348603BD6108AB2FCD0095C66E02ECF0;4840.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 913.
+(rerunfilecheck)             Checksum: 5F2AC9DF3A9FB1E1E16DEDBDE094C565;5613.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 979.
  ) 
 Here is how much of TeX's memory you used:
- 7864 strings out of 494925
- 112782 string characters out of 6180251
- 217932 words of memory out of 5000000
- 10767 multiletter control sequences out of 15000+600000
+ 7952 strings out of 493013
+ 112735 string characters out of 6136993
+ 223855 words of memory out of 5000000
+ 11063 multiletter control sequences out of 15000+600000
  9214 words of font info for 33 fonts, out of 8000000 for 9000
- 16 hyphenation exceptions out of 8191
- 29i,8n,35p,609b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-
-Output written on "/home/igor/Desktop/UFRJ/Class/Linear Systems/TrabFinal/Traba
-lho_Escrito.pdf" (63 pages, 3592876 bytes).
+ 1141 hyphenation exceptions out of 8191
+ 29i,9n,35p,611b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2016/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2016/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr17.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.p
+fb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2016/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2016/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb>
+Output written on Trabalho_Escrito.pdf (70 pages, 73281734 bytes).
 PDF statistics:
- 1082 PDF objects out of 1200 (max. 8388607)
- 818 compressed objects within 9 object streams
- 213 named destinations out of 1000 (max. 500000)
- 958 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1159 PDF objects out of 1200 (max. 8388607)
+ 917 compressed objects within 10 object streams
+ 238 named destinations out of 1000 (max. 500000)
+ 1080 words of extra memory for PDF output out of 10000 (max. 10000000)
 

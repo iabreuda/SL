@@ -1,62 +1,62 @@
 \select@language {portuges}
-\contentsline {figure}{\numberline {1}{\ignorespaces Circuito 1}}{3}{figure.1}
-\contentsline {figure}{\numberline {2}{\ignorespaces Circuito 1 - Polos e Zeros}}{5}{figure.2}
+\contentsline {figure}{\numberline {1}{\ignorespaces Circuito 1}}{4}{figure.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Circuito 1 - Polos e Zeros}}{6}{figure.2}
 \contentsline {figure}{\numberline {3}{\ignorespaces Circuito 1 - Diagrama de Bode}}{6}{figure.3}
-\contentsline {figure}{\numberline {4}{\ignorespaces Circuito 1 - Resposta ao degrau unit\IeC {\'a}rio}}{6}{figure.4}
+\contentsline {figure}{\numberline {4}{\ignorespaces Circuito 1 - Resposta ao degrau unit\IeC {\'a}rio}}{7}{figure.4}
 \contentsline {figure}{\numberline {5}{\ignorespaces Circuito 1 - Resposta a rampa unit\IeC {\'a}ria}}{7}{figure.5}
-\contentsline {figure}{\numberline {6}{\ignorespaces Circuito 1 - Resposta a onda quadrada com $\omega = \frac {1}{8}\pi $}}{7}{figure.6}
+\contentsline {figure}{\numberline {6}{\ignorespaces Circuito 1 - Resposta a onda quadrada com $\omega = \frac {1}{8}\pi $}}{8}{figure.6}
 \contentsline {figure}{\numberline {7}{\ignorespaces Circuito 1 - Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{8}{figure.7}
-\contentsline {figure}{\numberline {8}{\ignorespaces Circuito 1 - Resposta ao terceiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{8}{figure.8}
+\contentsline {figure}{\numberline {8}{\ignorespaces Circuito 1 - Resposta ao terceiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{9}{figure.8}
 \contentsline {figure}{\numberline {9}{\ignorespaces Circuito 1 - Resposta ao quinto harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{9}{figure.9}
-\contentsline {figure}{\numberline {10}{\ignorespaces Circuito 1 - Resposta ao s\IeC {\'e}timo harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{9}{figure.10}
+\contentsline {figure}{\numberline {10}{\ignorespaces Circuito 1 - Resposta ao s\IeC {\'e}timo harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{10}{figure.10}
 \contentsline {figure}{\numberline {11}{\ignorespaces Circuito 2}}{10}{figure.11}
-\contentsline {figure}{\numberline {12}{\ignorespaces Circuito 2 - Polos e Zeros}}{11}{figure.12}
-\contentsline {figure}{\numberline {13}{\ignorespaces Circuito 2 - Diagrama de Bode}}{11}{figure.13}
-\contentsline {figure}{\numberline {14}{\ignorespaces Circuito 2 - Resposta ao degrau unit\IeC {\'a}rio}}{12}{figure.14}
-\contentsline {figure}{\numberline {15}{\ignorespaces Circuito 2 - Resposta a rampa unit\IeC {\'a}ria}}{12}{figure.15}
-\contentsline {figure}{\numberline {16}{\ignorespaces Circuito 2 - Resposta a onda quadrada com $\omega = \frac {1}{8}\pi $}}{13}{figure.16}
-\contentsline {figure}{\numberline {17}{\ignorespaces Circuito 2 - Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{13}{figure.17}
-\contentsline {figure}{\numberline {18}{\ignorespaces Circuito 2 - Resposta ao terceiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{14}{figure.18}
-\contentsline {figure}{\numberline {19}{\ignorespaces Circuito 2 - Resposta ao quinto harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{14}{figure.19}
-\contentsline {figure}{\numberline {20}{\ignorespaces Circuito 2 - Resposta ao s\IeC {\'e}timo harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{15}{figure.20}
-\contentsline {figure}{\numberline {21}{\ignorespaces Circuito 3}}{15}{figure.21}
-\contentsline {figure}{\numberline {22}{\ignorespaces Circuito 3 - Polos e Zeros}}{17}{figure.22}
-\contentsline {figure}{\numberline {23}{\ignorespaces Circuito 3 - Diagrama de Bode}}{17}{figure.23}
-\contentsline {figure}{\numberline {24}{\ignorespaces Circuito 3 - Resposta ao degrau unit\IeC {\'a}rio}}{18}{figure.24}
-\contentsline {figure}{\numberline {25}{\ignorespaces Circuito 3 - Resposta a rampa unit\IeC {\'a}ria}}{18}{figure.25}
-\contentsline {figure}{\numberline {26}{\ignorespaces Circuito 3 - Resposta a onda quadrada com $\omega = \frac {1}{8}\pi $}}{19}{figure.26}
-\contentsline {figure}{\numberline {27}{\ignorespaces Circuito 3 - Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{19}{figure.27}
-\contentsline {figure}{\numberline {28}{\ignorespaces Circuito 3 - Resposta ao terceiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{20}{figure.28}
-\contentsline {figure}{\numberline {29}{\ignorespaces Circuito 3 - Resposta ao quinto harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{20}{figure.29}
-\contentsline {figure}{\numberline {30}{\ignorespaces Circuito 3 - Resposta ao s\IeC {\'e}timo harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{21}{figure.30}
-\contentsline {figure}{\numberline {31}{\ignorespaces Circuito 4}}{21}{figure.31}
-\contentsline {figure}{\numberline {32}{\ignorespaces Circuito 4 - Diagrama de Bode}}{22}{figure.32}
-\contentsline {figure}{\numberline {33}{\ignorespaces Circuito 4 - Resposta ao degrau unit\IeC {\'a}rio}}{22}{figure.33}
-\contentsline {figure}{\numberline {34}{\ignorespaces Circuito 4 - Resposta a rampa unit\IeC {\'a}ria}}{23}{figure.34}
-\contentsline {figure}{\numberline {35}{\ignorespaces Circuito 4 - Resposta a onda quadrada com $\omega = \frac {1}{8}\pi $}}{23}{figure.35}
-\contentsline {figure}{\numberline {36}{\ignorespaces Circuito 4 - Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{24}{figure.36}
-\contentsline {figure}{\numberline {37}{\ignorespaces Circuito 4 - Resposta ao terceiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{24}{figure.37}
-\contentsline {figure}{\numberline {38}{\ignorespaces Circuito 4 - Resposta ao quinto harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{25}{figure.38}
-\contentsline {figure}{\numberline {39}{\ignorespaces Circuito 4 - Resposta ao s\IeC {\'e}timo harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{25}{figure.39}
-\contentsline {figure}{\numberline {40}{\ignorespaces Circuito 5}}{26}{figure.40}
-\contentsline {figure}{\numberline {41}{\ignorespaces Circuito 5 - Polos e Zeros}}{27}{figure.41}
-\contentsline {figure}{\numberline {42}{\ignorespaces Circuito 5 - Diagrama de Bode}}{27}{figure.42}
-\contentsline {figure}{\numberline {43}{\ignorespaces Circuito 5 - Resposta ao degrau unit\IeC {\'a}rio}}{28}{figure.43}
-\contentsline {figure}{\numberline {44}{\ignorespaces Circuito 5 - Resposta a rampa unit\IeC {\'a}ria}}{28}{figure.44}
-\contentsline {figure}{\numberline {45}{\ignorespaces Circuito 5 - Resposta a onda quadrada com $\omega = \frac {1}{8}\pi $}}{29}{figure.45}
-\contentsline {figure}{\numberline {46}{\ignorespaces Circuito 5 - Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{29}{figure.46}
-\contentsline {figure}{\numberline {47}{\ignorespaces Circuito 5 - Resposta ao terceiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{30}{figure.47}
-\contentsline {figure}{\numberline {48}{\ignorespaces Circuito 5 - Resposta ao quinto harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{30}{figure.48}
-\contentsline {figure}{\numberline {49}{\ignorespaces Circuito 5 - Resposta ao s\IeC {\'e}timo harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{31}{figure.49}
-\contentsline {figure}{\numberline {50}{\ignorespaces Diagrama de Blocos}}{32}{figure.50}
-\contentsline {figure}{\numberline {51}{\ignorespaces Polos e Zeros}}{33}{figure.51}
-\contentsline {figure}{\numberline {52}{\ignorespaces Diagrama de Bode}}{34}{figure.52}
+\contentsline {figure}{\numberline {12}{\ignorespaces Circuito 2 - Polos e Zeros}}{12}{figure.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Circuito 2 - Diagrama de Bode}}{12}{figure.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Circuito 2 - Resposta ao degrau unit\IeC {\'a}rio}}{13}{figure.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Circuito 2 - Resposta a rampa unit\IeC {\'a}ria}}{13}{figure.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Circuito 2 - Resposta a onda quadrada com $\omega = \frac {1}{8}\pi $}}{14}{figure.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Circuito 2 - Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{14}{figure.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Circuito 2 - Resposta ao terceiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{15}{figure.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Circuito 2 - Resposta ao quinto harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{15}{figure.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces Circuito 2 - Resposta ao s\IeC {\'e}timo harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{16}{figure.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces Circuito 3}}{16}{figure.21}
+\contentsline {figure}{\numberline {22}{\ignorespaces Circuito 3 - Polos e Zeros}}{18}{figure.22}
+\contentsline {figure}{\numberline {23}{\ignorespaces Circuito 3 - Diagrama de Bode}}{18}{figure.23}
+\contentsline {figure}{\numberline {24}{\ignorespaces Circuito 3 - Resposta ao degrau unit\IeC {\'a}rio}}{19}{figure.24}
+\contentsline {figure}{\numberline {25}{\ignorespaces Circuito 3 - Resposta a rampa unit\IeC {\'a}ria}}{19}{figure.25}
+\contentsline {figure}{\numberline {26}{\ignorespaces Circuito 3 - Resposta a onda quadrada com $\omega = \frac {1}{8}\pi $}}{20}{figure.26}
+\contentsline {figure}{\numberline {27}{\ignorespaces Circuito 3 - Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{20}{figure.27}
+\contentsline {figure}{\numberline {28}{\ignorespaces Circuito 3 - Resposta ao terceiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{21}{figure.28}
+\contentsline {figure}{\numberline {29}{\ignorespaces Circuito 3 - Resposta ao quinto harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{21}{figure.29}
+\contentsline {figure}{\numberline {30}{\ignorespaces Circuito 3 - Resposta ao s\IeC {\'e}timo harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{22}{figure.30}
+\contentsline {figure}{\numberline {31}{\ignorespaces Circuito 4}}{22}{figure.31}
+\contentsline {figure}{\numberline {32}{\ignorespaces Circuito 4 - Diagrama de Bode}}{23}{figure.32}
+\contentsline {figure}{\numberline {33}{\ignorespaces Circuito 4 - Resposta ao degrau unit\IeC {\'a}rio}}{23}{figure.33}
+\contentsline {figure}{\numberline {34}{\ignorespaces Circuito 4 - Resposta a rampa unit\IeC {\'a}ria}}{24}{figure.34}
+\contentsline {figure}{\numberline {35}{\ignorespaces Circuito 4 - Resposta a onda quadrada com $\omega = \frac {1}{8}\pi $}}{24}{figure.35}
+\contentsline {figure}{\numberline {36}{\ignorespaces Circuito 4 - Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{25}{figure.36}
+\contentsline {figure}{\numberline {37}{\ignorespaces Circuito 4 - Resposta ao terceiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{25}{figure.37}
+\contentsline {figure}{\numberline {38}{\ignorespaces Circuito 4 - Resposta ao quinto harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{26}{figure.38}
+\contentsline {figure}{\numberline {39}{\ignorespaces Circuito 4 - Resposta ao s\IeC {\'e}timo harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{26}{figure.39}
+\contentsline {figure}{\numberline {40}{\ignorespaces Circuito 5}}{27}{figure.40}
+\contentsline {figure}{\numberline {41}{\ignorespaces Circuito 5 - Polos e Zeros}}{28}{figure.41}
+\contentsline {figure}{\numberline {42}{\ignorespaces Circuito 5 - Diagrama de Bode}}{28}{figure.42}
+\contentsline {figure}{\numberline {43}{\ignorespaces Circuito 5 - Resposta ao degrau unit\IeC {\'a}rio}}{29}{figure.43}
+\contentsline {figure}{\numberline {44}{\ignorespaces Circuito 5 - Resposta a rampa unit\IeC {\'a}ria}}{29}{figure.44}
+\contentsline {figure}{\numberline {45}{\ignorespaces Circuito 5 - Resposta a onda quadrada com $\omega = \frac {1}{8}\pi $}}{30}{figure.45}
+\contentsline {figure}{\numberline {46}{\ignorespaces Circuito 5 - Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{30}{figure.46}
+\contentsline {figure}{\numberline {47}{\ignorespaces Circuito 5 - Resposta ao terceiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{31}{figure.47}
+\contentsline {figure}{\numberline {48}{\ignorespaces Circuito 5 - Resposta ao quinto harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{31}{figure.48}
+\contentsline {figure}{\numberline {49}{\ignorespaces Circuito 5 - Resposta ao s\IeC {\'e}timo harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{8}\pi $}}{32}{figure.49}
+\contentsline {figure}{\numberline {50}{\ignorespaces Diagrama de Blocos}}{33}{figure.50}
+\contentsline {figure}{\numberline {51}{\ignorespaces Polos e Zeros}}{34}{figure.51}
+\contentsline {figure}{\numberline {52}{\ignorespaces Diagrama de Bode}}{35}{figure.52}
 \contentsline {figure}{\numberline {53}{\ignorespaces Resposta ao degrau unit\IeC {\'a}rio}}{35}{figure.53}
-\contentsline {figure}{\numberline {54}{\ignorespaces Resposta a rampa unit\IeC {\'a}ria}}{35}{figure.54}
+\contentsline {figure}{\numberline {54}{\ignorespaces Resposta a rampa unit\IeC {\'a}ria}}{36}{figure.54}
 \contentsline {figure}{\numberline {55}{\ignorespaces Resposta a onda quadrada com $\omega = \frac {1}{4}\pi $}}{36}{figure.55}
-\contentsline {figure}{\numberline {56}{\ignorespaces Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{2}\pi $}}{36}{figure.56}
+\contentsline {figure}{\numberline {56}{\ignorespaces Resposta ao primeiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{2}\pi $}}{37}{figure.56}
 \contentsline {figure}{\numberline {57}{\ignorespaces Resposta ao terceiro harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{2}\pi $}}{37}{figure.57}
-\contentsline {figure}{\numberline {58}{\ignorespaces Resposta ao quinto harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{2}\pi $}}{37}{figure.58}
+\contentsline {figure}{\numberline {58}{\ignorespaces Resposta ao quinto harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{2}\pi $}}{38}{figure.58}
 \contentsline {figure}{\numberline {59}{\ignorespaces Resposta ao s\IeC {\'e}timo harm\IeC {\^o}nico da s\IeC {\'e}rie de Fourier de um onda quadrada com $\omega = \frac {1}{2}\pi $}}{38}{figure.59}
 \contentsline {figure}{\numberline {60}{\ignorespaces Polos e Zeros variando em $\alpha $}}{40}{figure.60}
 \contentsline {figure}{\numberline {61}{\ignorespaces Polos e Zeros variando em $\beta $}}{40}{figure.61}
@@ -88,3 +88,13 @@
 \contentsline {figure}{\numberline {87}{\ignorespaces Resposta para $\beta $ = 0.1 em frequ\IeC {\^e}ncias variantes}}{54}{figure.87}
 \contentsline {figure}{\numberline {88}{\ignorespaces Resposta para $\beta $ = 1 em frequ\IeC {\^e}ncias variantes}}{54}{figure.88}
 \contentsline {figure}{\numberline {89}{\ignorespaces Resposta para $\beta $ = 10 em frequ\IeC {\^e}ncias variantes}}{55}{figure.89}
+\contentsline {figure}{\numberline {90}{\ignorespaces An\IeC {\'a}lise da resposta na Frequ\IeC {\^e}ncia de corte}}{56}{figure.90}
+\contentsline {figure}{\numberline {91}{\ignorespaces An\IeC {\'a}lise da resposta na Frequ\IeC {\^e}ncia de corte uma d\IeC {\'e}cada antes}}{56}{figure.91}
+\contentsline {figure}{\numberline {92}{\ignorespaces An\IeC {\'a}lise da resposta na Frequ\IeC {\^e}ncia de corte uma d\IeC {\'e}cada depois}}{57}{figure.92}
+\contentsline {figure}{\numberline {93}{\ignorespaces Primeiro harm\IeC {\^o}nico}}{57}{figure.93}
+\contentsline {figure}{\numberline {94}{\ignorespaces Terceiro harm\IeC {\^o}nico}}{58}{figure.94}
+\contentsline {figure}{\numberline {95}{\ignorespaces Quinto harm\IeC {\^o}nico}}{58}{figure.95}
+\contentsline {figure}{\numberline {96}{\ignorespaces S\IeC {\'e}timo harm\IeC {\^o}nico}}{59}{figure.96}
+\contentsline {figure}{\numberline {97}{\ignorespaces Cossen\IeC {\'o}ide 100Hz}}{60}{figure.97}
+\contentsline {figure}{\numberline {98}{\ignorespaces Cossen\IeC {\'o}ide 1kHz}}{60}{figure.98}
+\contentsline {figure}{\numberline {99}{\ignorespaces Cossen\IeC {\'o}ide 10kHz}}{61}{figure.99}

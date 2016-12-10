@@ -51,7 +51,7 @@
 
 	\newpage
 	\pagenumbering{arabic}
-	\section{Conhecimentos}
+	\section{Conhecimentos}\label{conhecimentos}
 		\subsection{Leis de kirchhoff}\label{kirchhoff}
 		\subsubsection{Lei das Correntes}
 			A soma das correntes em um nó e igual a zero.
@@ -117,8 +117,38 @@
 		Modulo, começando na frequência de corte $b_{3}$, -40db/dec (Pólo) ou +40db/dec (zero)
 
 		Fase $0_{o}$ em $\frac{b_{3}}{10}$, $-90^{o}$ (pólo) $+90^{o}$ (zero) em $b_{3}$ e por fim $-180^{o}$ (pólo) $+180^{o}$ (zero) em $100b_{3}$\\
+		\subsection{Resposta à sinas}
+		Exemplo de como encontrar à resposta da função de transferência para um determinado sinal:
+		
+		Tendo $H(S) = \frac{S+2}{S^{2} + 5S + 4}$, iremos encontrar a resposta para $x(t) = 5cos(2t + 30\degree)$
+		\[
+		H(j\omega) = \frac{j\omega + 2}{-\omega^{2} + 5j\omega + 4}
+		\]
+		sabemos que:
+		\[
+		\arrowvert H(j\omega) \arrowvert = \frac{\sqrt{(\rm I\!Re_{1})^{2} + (\rm Im_{1})^{2}}}{\sqrt{(\rm I\!Re_{2})^{2} + (\rm Im_{2})^{2}}} \leftrightarrow \angle = \arctan\left(\frac{\rm Im_{1}}{\rm I\!Re_{1}}\right) - \arctan\left(\frac{\rm Im_{2}}{\rm I\!Re_{2}}\right)
+		\]
+		e que:
+		\[
+		y(t) = \arrowvert H(j\omega) \arrowvert \cos(\omega t + \phi + \angle H(j\omega))
+		\]
+		logo, substituindo os valores em:
+		\[
+		\arrowvert H(j\omega) \arrowvert = \frac{\sqrt{\omega^{2} + 4}}{\sqrt{(5j\omega)^{2} + (4 - \omega^{2})}} \leftrightarrow \angle H(j\omega) = \arctan\left(\frac{\omega}{2}\right) - \arctan\left(\frac{5\omega}{4 - \omega^{2}}\right)
+		\]
+		temos:
+		\[
+		y(t) = \sqrt{2}\cos(2t - 15\degree)
+		\]		
+		\subsection{Série Trigonométrica de Fourier}
+		A série de fourier serve para representar sinais periódicos em função de senos e cossenos.
+		
+		com isso, temos:
+		\[\frac{a_{0}}{2} + \sum_{n=1}^{+\infty}(a_{n}cos(\frac{2n\pi x}{T}) + b_{n}sen(\frac{2n\pi x}{T}))\]
+		\[a_{n} = \frac{2}{T}\int_{T_{0}}^{T_{f}}f(x)cos(\frac{2n\pi x}{T})dx\]		
+		\[b_{n} = \frac{2}{T}\int_{T_{0}}^{T_{f}}f(x)sen(\frac{2n\pi x}{T})dx\]				
 	\newpage
-	\section{Quest\~{a}o 1}
+	\section{Quest\~{a}o 1}\label{q1}
 		Nesta sessão serão resolvidas todas as partes necessárias para encontrar as funções/utilidades de cada um dos circuitos, bem como a analise de resposta a determinados sinais e todos os itens solicitados na \textbf{Questão 1} do trabalho final de sistemas lineares.
 
 		O primeiro passo é modelar cada circuito, essa modelagem utilizara as leis de kirchhoff explicadas em \ref{kirchhoff}. Apos a modelagem, encontraremos as E.D.O's, aplicaremos Laplace utilizando a propriedade da Derivação (\ref{derivada}) e com isso encontraremos a função de transferência H(S). Em posse da função de transferência em função dos componentes do circuito, escolheremos o valor comercial de cada componente de acordo com o nosso objetivo, encontraremos os polos e zeros e o diagrama de bode conforme explicado em (\ref{zero}) e (\ref{bode}).
@@ -149,19 +179,19 @@
 
 			Afim de facilitar os cálculos, tomaremos os seguintes valores para cada elemento do circuito:
 			 \begin{itemize}
-				\item $R_{1} = 1K \Omega;$
-				\item $R_{2} = 10K \Omega;$
-				\item $C = 220\mu F;$
-				\item $L = 166\eta H;$
+				\item $R_{1} = 56 \Omega;$
+				\item $R_{2} = 100 \Omega;$
+				\item $C = 2.2\mu F;$
+				\item $L = 23.2mH;$
 			 \end{itemize}
 
 			Apos aplicar os valores comercias em H(S), temos:
 			\[
-			H(S) = \frac{100S}{1000S^{2} + 110S + 110}
+			H(S) = \frac{2.32S}{0.000285824S^{2} + 3.6192S + 5600}
 			\] 	\\
 
 			Utilizando essa função no MatLab para encontrar os polos (quando se zera o denominador), zeros (quando se zera o numerador) e o diagrama de Bode, obtemos o seguintes gráficos:
-
+			\newpage
 			\begin{figure}[!ht]
 				\centering
 				\includegraphics[scale=0.7]{img/1e_circ1.png}
@@ -170,22 +200,22 @@
 
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.9]{img/1f_circ1.png}
+				\includegraphics[scale=0.3]{img/1f_circ1.png}
 				\caption{Circuito 1 - Diagrama de Bode}
 			\end{figure}
 
-			Analisando-se este circuito, pode-se afirmar que o mesmo é um filtro passa faixa operando na largura de banda de aproximadamente 0.11 rad/sec em um intervalo [0.28, 0.39] rad/sec.
+			Analisando-se este circuito, pode-se afirmar que o mesmo é um filtro passa faixa operando na largura de banda de aproximadamente 12610 rad/sec em um intervalo [1390, 14000] rad/sec.
 			\newpage
 			\subsubsection{Resposta ao degrau unitário}
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.71]{img/1g_circ1.png}
+				\includegraphics[scale=0.68]{img/1g_circ1.png}
 				\caption{Circuito 1 - Resposta ao degrau unitário}
 			\end{figure}
 			\subsubsection{Resposta a rampa unitário}
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.72]{img/1h_circ1.png}
+				\includegraphics[scale=0.68]{img/1h_circ1.png}
 				\caption{Circuito 1 - Resposta a rampa unitária}
 			\end{figure}
 
@@ -249,15 +279,15 @@
 
 			Escolhendo os seguintes valores para cada elemento do circuito:
 			\begin{itemize}
-				\item $R_{1} = 10\Omega;$
-				\item $R_{2} = 100\Omega;$
-				\item $C = 220\mu F;$
-				\item $L = 166\eta H;$
+				\item $R_{1} = 1M \Omega;$
+				\item $R_{2} = 100 \Omega;$
+				\item $C = 2.2\mu F;$
+				\item $L = 23.2mH;$				
 			\end{itemize}
 
 			Encontramos a seguinte função de transferência:
 			\[
-				H(S) = \frac{10S}{S^{2} + 110S + 1}
+				H(S) = \frac{2.2S}{0.000000051S^{2} + 2.20022S + 1}
 			\] 	\\
 			A partir dessa função obtemos os seguintes polos, zeros e diagrama de Bode:
 			\begin{figure}[!ht]
@@ -272,18 +302,18 @@
 				\caption{Circuito 2 - Diagrama de Bode}
 			\end{figure}
 			\newpage
-			Assim como o circuito da figura 1, temos também um filtro passa faixa que opera nas faixas entre 0.01 rad/seg e 86.5 rad/seg
+			Assim como o circuito da figura 1, temos também um filtro passa faixa que opera nas faixas entre 0.427 rad/seg até $48.1\times10^{7}$ rad/seg
 
 			\subsubsection{Resposta ao degrau unitário}
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.71]{img/1g_circ2.png}
+				\includegraphics[scale=0.68]{img/1g_circ2.png}
 				\caption{Circuito 2 - Resposta ao degrau unitário}
 			\end{figure}
 			\subsubsection{Resposta a rampa unitário}
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.72]{img/1h_circ2.png}
+				\includegraphics[scale=0.68]{img/1h_circ2.png}
 				\caption{Circuito 2 - Resposta a rampa unitária}
 			\end{figure}
 
@@ -350,7 +380,7 @@
 
 			Encontramos a seguinte função de transferência:
 			\[
-			H(S) = \frac{1}{2000S^{2} + 110S + 1}
+			H(S) = \frac{1}{0.000000025S^{2} + 0.00055S + 1}
 			\] 	\\
 
 			Que nos gera os seguintes polos, zeros e diagrama de Bode:
@@ -365,17 +395,17 @@
 				\includegraphics[scale=0.7]{img/1f_circ3.png}
 				\caption{Circuito 3 - Diagrama de Bode}
 			\end{figure}
-			Pela a analise do diagrama de Bode, pode-se afirmar que esse circuito é um filtro passa alta com frequência no seu menor polo de 0.01 rad/sec.
+			Pela a analise do diagrama de Bode, pode-se afirmar que esse circuito é um filtro passa baixa com frequência de corte igual a 2000 rad/s.
 			\subsubsection{Resposta ao degrau unitário}
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.71]{img/1g_circ3.png}
+				\includegraphics[scale=0.68]{img/1g_circ3.png}
 				\caption{Circuito 3 - Resposta ao degrau unitário}
 			\end{figure}
 			\subsubsection{Resposta a rampa unitário}
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.72]{img/1h_circ3.png}
+				\includegraphics[scale=0.68]{img/1h_circ3.png}
 				\caption{Circuito 3 - Resposta a rampa unitária}
 			\end{figure}
 
@@ -397,13 +427,12 @@
 			\end{figure}
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.71]{img/1l_circ3.png}
+				\includegraphics[scale=0.68]{img/1l_circ3.png}
 				\caption{Circuito 3 - Resposta ao quinto harmônico da série de Fourier de um onda quadrada com $\omega = \frac{1}{8}\pi$}
 			\end{figure}
-			\clearpage
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.71]{img/1m_circ3.png}
+				\includegraphics[scale=0.68]{img/1m_circ3.png}
 				\caption{Circuito 3 - Resposta ao sétimo harmônico da série de Fourier de um onda quadrada com $\omega = \frac{1}{8}\pi$}
 			\end{figure}
 		\subsection{Circuito 4}
@@ -423,13 +452,13 @@
 			\subsubsection{Resposta ao degrau unitário}
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.71]{img/1g_circ4.png}
+				\includegraphics[scale=0.68]{img/1g_circ4.png}
 				\caption{Circuito 4 - Resposta ao degrau unitário}
 			\end{figure}
 			\subsubsection{Resposta a rampa unitário}
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.72]{img/1h_circ4.png}
+				\includegraphics[scale=0.68]{img/1h_circ4.png}
 				\caption{Circuito 4 - Resposta a rampa unitária}
 			\end{figure}
 
@@ -481,14 +510,14 @@
 
 			Tomando os seguintes valores para os elementos do circuito:
 			\begin{itemize}
-				\item $R = 10\Omega;$
-				\item $C = 1F;$
+				\item $R = 1M\Omega;$
+				\item $C = 50nF;$
 			\end{itemize}
 
 			Temos a seguinte equação de transferência:
 
 			\[
-			H(S) = \frac{-1}{10S}
+			H(S) = \frac{-1}{0.05S}
 			\] 	\\
 
 			A partir dessa equação, obtemos os seguintes polos, zeros e diagrama de Bode:
@@ -501,7 +530,7 @@
 			\newpage
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.78]{img/1f_circ5.png}
+				\includegraphics[scale=0.70]{img/1f_circ5.png}
 				\caption{Circuito 5 - Diagrama de Bode}
 			\end{figure}
 
@@ -510,13 +539,13 @@
 			\subsubsection{Resposta ao degrau unitário}
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.71]{img/1g_circ5.png}
+				\includegraphics[scale=0.68]{img/1g_circ5.png}
 				\caption{Circuito 5 - Resposta ao degrau unitário}
 			\end{figure}
 			\subsubsection{Resposta a rampa unitária}
 			\begin{figure}[!ht]
 				\centering
-				\includegraphics[scale=0.72]{img/1h_circ5.png}
+				\includegraphics[scale=0.68]{img/1h_circ5.png}
 				\caption{Circuito 5 - Resposta a rampa unitária}
 			\end{figure}
 
@@ -594,19 +623,19 @@
 		\includegraphics{img/2b.png}
 		\caption{Polos e Zeros}
 	\end{figure}
+	\newpage
 	\begin{figure}[!ht]
-		\includegraphics{img/2c.png}
+		\centering
+		\includegraphics[scale=0.71]{img/2c.png}
 		\caption{Diagrama de Bode}
 	\end{figure}
-	\newpage
-	\clearpage
 	\subsection{Resposta ao degrau unitário}
 		\begin{figure}[!ht]
 			\centering
 			\includegraphics[scale=0.71]{img/2f.png}
 			\caption{Resposta ao degrau unitário}
 		\end{figure}
-
+	\newpage
 	\subsection{Resposta a rampa unitária}
 		\begin{figure}[!ht]
 			\centering
@@ -840,14 +869,74 @@
 				\includegraphics[scale=0.57]{img/3k_beta5.png}
 				\caption{Resposta para $\beta$ = 10 em frequências variantes}
 			\end{figure}
+	\clearpage		
+	\newpage
+	\section{Questão 4}\label{q4}
+		\subsection{Circuito III}
+			\subsubsection{Análise da resposta na Frequência de Corte}
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.06, angle=180]{img/w.jpg}
+				\caption{Análise da resposta na Frequência de corte}
+			\end{figure}		
+			\subsubsection{Análise da resposta na Frequência em $0.1w_{c}$}
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.06, angle=180]{img/01w.jpg}
+				\caption{Análise da resposta na Frequência de corte uma década antes}
+			\end{figure}		
+			\subsubsection{Análise da resposta na Frequência em $10w_{c}$}
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.06, angle=180]{img/10w.jpg}
+				\caption{Análise da resposta na Frequência de corte uma década depois}
+			\end{figure}
+			\subsubsection{Harmônicos de Fourier}
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.06, angle=180]{img/harm1.jpg}
+				\caption{Primeiro harmônico}
+			\end{figure}					
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.08, angle=180]{img/harm3.jpg}
+				\caption{Terceiro harmônico}
+			\end{figure}					
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.08, angle=180]{img/harm5.jpg}
+				\caption{Quinto harmônico}
+			\end{figure}					
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.06, angle=180]{img/harm7.jpg}
+				\caption{Sétimo harmônico}
+			\end{figure}		
 
+			\clearpage
+			\newpage
+			\subsubsection{Respostas para diferentes frequências}
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.07, angle=180]{img/100h.jpg}
+				\caption{Cossenóide 100Hz}
+			\end{figure}					
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.07, angle=180]{img/1k.jpg}
+				\caption{Cossenóide 1kHz}
+			\end{figure}					
+			\begin{figure}[!ht]
+				\centering
+				\includegraphics[scale=0.08, angle=180]{img/10k.jpg}
+				\caption{Cossenóide 10kHz}
+			\end{figure}						
+	\newpage
 	\section{Conclusão}
 
-	O Trabalho é muito importante para o aprendizado, ele trás a pratica para alguns temas muito abstratos falados durante a aula. A compreensão pratica do problema nos mostra a real utilidade da matéria.
+	Boa parte desse trabalho foi reaproveitado do meu trabalho feito no período passado, com exceção das seções \ref{conhecimentos} \ref{q1} e \ref{q4}. Em especial adicionei os conhecimentos utilizados para resolver o trabalho explicando todos os artifícios para resolver cada um dos itens solicitados e remodelei os circuitos com valores realísticos (Removi os indutores de 1H :) é muito fio para enrolar!!) .
 
-	Embora a parte de analise de circuito seja algo extra que só sera aprendido profundamente na matéria de Circuitos Elétricos, com dependência curricular de Sistemas Lineares I, os circuitos mostrados são de fácil modelagem. Em relação ao diagrama de blocos, esta matéria faltou nos slides da aula, entretanto, por ser um conceito gráfico bem simples, foi de fácil entendimento após minutos de pequisa.
-
-	O trabalho foi bastante importante para fixar alguns conceitos aprendidos na sala,  dos quais eu posso listar como mais importante:
+	O trabalho foi bastante importante para fixar alguns conceitos aprendidos na sala, dos quais eu posso listar como mais importante:
 
 		\begin{itemize}
 			\item Analise dos circuitos;
@@ -856,33 +945,10 @@
 			\item Entender como o valor dos componentes influenciam nos polos e zeros e nas frequências de filtragem;
 			\item Compreender superficialmente o funcionamento de filtros;
 			\item Representação de circuitos em diagrama de blocos;
-			\item Encontrar a reposta do sistema para diferentes sinais através de sua função de transferência. O qual eu acredito que valha a pena colocar um exemplo para consultas futuras:
-		\end{itemize}
-		Exemplo: Encontre a resposta da função de transferência:
-		$H(S) = \frac{S+2}{S^{2} + 5S + 4}$ para o sinal $x(t) = 5cos(2t + 30\degree)$
-		\[
-			H(j\omega) = \frac{j\omega + 2}{-\omega^{2} + 5j\omega + 4}
-		\]
-		sabemos que:
-		\[
-		\arrowvert H(j\omega) \arrowvert = \frac{\sqrt{(\rm I\!Re_{1})^{2} + (\rm Im_{1})^{2}}}{\sqrt{(\rm I\!Re_{2})^{2} + (\rm Im_{2})^{2}}} \leftrightarrow \angle = \arctan\left(\frac{\rm Im_{1}}{\rm I\!Re_{1}}\right) - \arctan\left(\frac{\rm Im_{2}}{\rm I\!Re_{2}}\right)
-		\]
-		e que:
-		\[
-		y(t) = \arrowvert H(j\omega) \arrowvert \cos(\omega t + \phi + \angle H(j\omega))
-		\]
-		logo, substituindo os valores em:
-		\[
-		\arrowvert H(j\omega) \arrowvert = \frac{\sqrt{\omega^{2} + 4}}{\sqrt{(5j\omega)^{2} + (4 - \omega^{2})}} \leftrightarrow \angle H(j\omega) = \arctan\left(\frac{\omega}{2}\right) - \arctan\left(\frac{5\omega}{4 - \omega^{2}}\right)
-		\]
-		temos:
-		\[
-		y(t) = \sqrt{2}\cos(2t - 15\degree)
-		\]
-		\begin{itemize}
+			\item Encontrar a reposta do sistema para diferentes sinais através de sua função de transferência.
 			\item Verificar que a resposta ao somatório dos harmônicos de fourier se aproxima do sinal normal conforme o numero de harmônicos crescem;
-			\item Aprender a realizar simulações no MatLab;
-
+			\item Aprender a realizar simulações no MatLab e no Octave;
+			\item Montagem de circuito na prática;
 		\end{itemize}
 
 	\newpage
